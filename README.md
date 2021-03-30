@@ -2,6 +2,7 @@
 
 <Text>
 INSTALLATION:
+
 1- clone git repository
 
 <code>cd ~</code>
@@ -12,11 +13,9 @@ INSTALLATION:
 
 2- put cloned folders in /usr/share/backgrounds/
 
-<code>
-sudo mkdir /usr/share/backgrounds/Dynamic_Wallpapers
+<code>sudo mkdir /usr/share/backgrounds/Dynamic_Wallpapers</code>
 
-sudo mv 
-</code>
+<code>sudo mv</code>
 
 3- install gnome-tweak-tool.
 
