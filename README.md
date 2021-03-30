@@ -1,6 +1,6 @@
-[b]This is dynamic wallpapers for linux[b]
+<b>This is dynamic wallpapers for linux</b>
 
-
+<Text>
 INSTALLATION: 
 
 1- download or clone repository.
@@ -14,7 +14,7 @@ INSTALLATION:
 4- from gnome-tweak-tool select xml file. 
 
 5- enjoy!
-
+</Text>
 
 SCREENSHOT:
 
