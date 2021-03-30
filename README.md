@@ -2,6 +2,8 @@
 
 <b>This is dynamic wallpapers for linux</b>
 
+Tested on Manjaro Gnome 20.2.1
+
 INSTALLATION:
 
 
