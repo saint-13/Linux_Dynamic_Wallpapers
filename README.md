@@ -31,7 +31,7 @@ Arch:
 
 Ubuntu:
 
-<code>sudo apt-get install gnome-tweaks</code>
+<code>sudo apt install gnome-tweaks</code>
 
 4- open gnome tweaks and select xml file.
 
