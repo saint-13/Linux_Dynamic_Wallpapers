@@ -7,9 +7,9 @@ INSTALLATION:
 
 <code>
 cd ~
-
+<code>
 git clone 
-
+<code>
 cd Linux_Dynamic_Wallpapers
 </code>
 
