@@ -7,9 +7,7 @@ INSTALLATION:
 
 <code>
 cd ~
-</code>
 
-<code>
 git clone 
 </code>
 
