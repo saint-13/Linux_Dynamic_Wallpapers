@@ -5,7 +5,9 @@ INSTALLATION:
 1- clone git repository
 
 <code>cd ~</code>
+
 <code>git clone</code>
+
 <code>cd Linux_Dynamic_Wallpapers</code>
 
 2- put cloned folders in /usr/share/backgrounds/
