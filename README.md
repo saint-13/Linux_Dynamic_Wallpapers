@@ -9,9 +9,7 @@ INSTALLATION:
 cd ~
 
 git clone 
-</code>
 
-<code>
 cd Linux_Dynamic_Wallpapers
 </code>
 
@@ -19,9 +17,7 @@ cd Linux_Dynamic_Wallpapers
 
 <code>
 sudo mkdir /usr/share/backgrounds/Dynamic_Wallpapers
-</code>
 
-<code>
 sudo mv 
 </code>
 
