@@ -3,19 +3,46 @@
 <Text>
 INSTALLATION: 
 
-1- download or clone repository.
+1- clone git repository
+</Text>
 
-2- extract zip file.
+<code>
+cd ~
+</code>
 
-3- put extracted folders in /usr/share/backgrounds/.
+<code>
+git clone 
+</code>
 
+<code>
+cd Linux_Dynamic_Wallpapers
+</code>
+
+<Text>
+2- put cloned folders in /usr/share/backgrounds/
+</Text>
+
+<code>
+sudo mkdir /usr/share/backgrounds/Dynamic_Wallpapers
+</code>
+
+<code>
+sudo mv 
+</code>
+
+<Text>
 3- install gnome-tweak-tool.
+</Text>
 
+<Text>
 4- from gnome-tweak-tool select xml file. 
+</Text>
 
+<Text>
 5- enjoy!
 </Text>
 
+<Text>
 SCREENSHOT:
-
+</Text>
 
