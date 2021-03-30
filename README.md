@@ -29,7 +29,7 @@ Ubuntu:
 
 4- open gnome tweaks and select xml file.
 
-for instance select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave/Mojave.xml
+e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave/Mojave.xml
 
 5- enjoy!
 
