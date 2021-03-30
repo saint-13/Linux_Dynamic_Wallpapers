@@ -41,7 +41,7 @@ e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave.xml
 
 ![Screenshot](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png)
 
-SCREENSHOT:
+SCREENSHOTS:
 
 BigSur:
 ![BigSur](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2020-02-39.png)
