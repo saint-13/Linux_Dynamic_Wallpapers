@@ -1,4 +1,4 @@
-This is dynamic wallpapers for linux
+[B]This is dynamic wallpapers for linux[B]
 
 
 INSTALLATION: 
