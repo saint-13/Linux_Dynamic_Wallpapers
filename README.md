@@ -1,10 +1,10 @@
 <b>This is dynamic wallpapers for linux</b>
 
 <Text>
-  INSTALLATION:
+INSTALLATION:
 1- clone git repository
 
-<code>cd ~<code>
+<code>cd ~</code>
 <code>git clone</code>
 <code>cd Linux_Dynamic_Wallpapers</code>
 
@@ -22,6 +22,6 @@ sudo mv
 
 5- enjoy!
 
-  SCREENSHOT:
+SCREENSHOT:
 </Text>
 
