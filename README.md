@@ -1,6 +1,7 @@
+<Text>
+
 <b>This is dynamic wallpapers for linux</b>
 
-<Text>
 INSTALLATION:
 
 
