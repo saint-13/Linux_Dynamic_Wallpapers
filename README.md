@@ -34,5 +34,12 @@ e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave/Mojave.xml
 5- enjoy!
 
 SCREENSHOT:
+
+![Mojave](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-54.png)
+
+![MojaveV2](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-20-14.png)
+
+![Minimal Mojave](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-31.png)
+
 </Text>
 
