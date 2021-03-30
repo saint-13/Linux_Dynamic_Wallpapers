@@ -1,6 +1,6 @@
 <Text>
 
-<b>This is dynamic wallpapers for linux</b>
+<b>Dynamic Wallpapers for Linux</b>
 
 Tested on Manjaro Gnome 20.2.1
 
