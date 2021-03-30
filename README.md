@@ -35,7 +35,7 @@ e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave/Mojave.xml
 
 SCREENSHOT:
 
-Mojave: 16 diffrent images ([Source](https://gist.github.com/trongthanh/7d632e90687e1bc219e1f3262d337702))
+Mojave: 16 diffrent images + smooth transitions + suitable for spring days!([Source](https://gist.github.com/trongthanh/7d632e90687e1bc219e1f3262d337702))
 ![Mojave](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-54.png)
 
 MojaveV2:
