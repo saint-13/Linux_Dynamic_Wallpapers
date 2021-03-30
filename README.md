@@ -39,8 +39,12 @@ e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave/Mojave.xml
 
 SCREENSHOT:
 
+BigSurV2:
+![BigSurV2](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-06-30.png)
+
 Mojave: 16 diffrent images + smooth transitions + suitable for spring days! ([Source](https://gist.github.com/trongthanh/7d632e90687e1bc219e1f3262d337702))
 ![Mojave](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-54.png)
+![Mojave](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-00-31.png)
 
 MojaveV2:
 ![MojaveV2](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-20-14.png)
