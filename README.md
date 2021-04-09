@@ -5,7 +5,7 @@ Tested on Manjaro Gnome 20.2.1
 
 <b>INSTALLATION:</b>
 
-<b>1-</b> clone git repository
+<b style="color:blue;">1-</b> clone git repository
 
 <code>cd ~</code>
 
@@ -13,7 +13,7 @@ Tested on Manjaro Gnome 20.2.1
 
 <code>cd Linux_Dynamic_Wallpapers</code>
 
-<b>2-</b> move cloned folders in /usr/share/backgrounds/
+<b style="color:blue;">2-</b> move cloned folders in /usr/share/backgrounds/
 
 <code>sudo mv Dynamic_Wallpapers /usr/share/backgrounds/</code>
 
@@ -21,7 +21,7 @@ Tested on Manjaro Gnome 20.2.1
 
 <code>sudo rm -r Linux_Dynamic_Wallpapers</code>
 
-<b>3-</b> install gnome-tweak-tool.
+<b style="color:blue;">3-</b> install gnome-tweak-tool.
 
 Arch:
 
@@ -31,15 +31,15 @@ Ubuntu:
 
 <code>sudo apt install gnome-tweaks</code>
 
-<b>4-</b> open gnome tweaks and select xml file.
+<b style="color:blue;">4-</b> open gnome tweaks and select xml file.
 
 e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave.xml
 
 <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png" width="512">
 
-<b>5-</b> (optional) : you can install [Night Theme Switcher](https://extensions.gnome.org/extension/2236/night-theme-switcher/) extension for gnome shell to Automatically toggle your light and dark theme.
+<b style="color:blue;">5-</b> (optional) : you can install [Night Theme Switcher](https://extensions.gnome.org/extension/2236/night-theme-switcher/) extension for gnome shell to Automatically toggle your light and dark theme.
 
-<b>6-</b> enjoy!
+<b style="color:blue;">6-</b> enjoy!
 
 <b>SCREENSHOTS:</b>
 
