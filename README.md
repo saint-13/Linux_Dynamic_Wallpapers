@@ -47,30 +47,17 @@ SCREENSHOTS:
 <table>
   <tr>
     <th>Surface</th>
-    <th><img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-07%2015-11-33.png" width="256"></th>
+    <th>SurfaceBreeze</th>
+    <th>BigSur</th>
+    <th>BigSurV2</th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
-  <tr>
-    <td>February</td>
-    <td>$80</td>
+    <td><img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-07%2015-11-33.png" width="256"></td>
+    <td><img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-31%2001-26-13.png" width="256"></td>
+    <td><img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2020-02-39.png" width="256"></td>
+    <td><img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-06-30.png" width="256"></td>
   </tr>
 </table>
-
-
-SurfaceBreeze:
-
-<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-31%2001-26-13.png" width="512">
-
-BigSur:
-
-<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2020-02-39.png" width="512">
-
-BigSurV2:
-
-<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-06-30.png" width="512">
 
 Mojave: 16 diffrent images + smooth transitions + suitable for spring days! ([Source](https://gist.github.com/trongthanh/7d632e90687e1bc219e1f3262d337702))
 
