@@ -7,29 +7,29 @@ Tested on Manjaro Gnome 20.2.1
 
 1. clone git repository
 
-    <code>cd ~</code>
+        cd ~
 
-    <code>git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git</code>
+        git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
 
-    <code>cd Linux_Dynamic_Wallpapers</code>
+        cd Linux_Dynamic_Wallpapers
 
 2. move cloned folders in /usr/share/backgrounds/
 
-    <code>sudo mv Dynamic_Wallpapers /usr/share/backgrounds/</code>
+        sudo mv Dynamic_Wallpapers /usr/share/backgrounds/
 
-    <code>cd ~</code>
+        cd ~
 
-    <code>sudo rm -r Linux_Dynamic_Wallpapers</code>
+        sudo rm -r Linux_Dynamic_Wallpapers
 
 3. install gnome-tweak-tool.
 
     Arch:
 
-        <code>sudo pacman -S gnome-tweaks</code>
+        sudo pacman -S gnome-tweaks
 
     Ubuntu:
 
-        <code>sudo apt install gnome-tweaks</code>
+        sudo apt install gnome-tweaks
 
 4. open gnome tweaks and select xml file.
 
