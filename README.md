@@ -34,11 +34,11 @@ Ubuntu:
 
 e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave.xml
 
+<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png" width="512">
+
 5- (optional) : you can install [Night Theme Switcher](https://extensions.gnome.org/extension/2236/night-theme-switcher/) extension for gnome shell to Automatically toggle your light and dark theme.
 
 6- enjoy!
-
-![Screenshot](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png)
 
 SCREENSHOTS:
 
