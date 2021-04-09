@@ -5,7 +5,7 @@ Tested on Manjaro Gnome 20.2.1
 
 <b>INSTALLATION:</b>
 
-- <b>1-</b> clone git repository
++ <b>1-</b> clone git repository
 
 <code>cd ~</code>
 
