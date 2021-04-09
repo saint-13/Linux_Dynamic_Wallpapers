@@ -1,10 +1,11 @@
 # Linux Dynamic Wallpapers
+<b>Dynamic wallpapers like MacOS for Linux</b>
 
 Tested on Manjaro Gnome 20.2.1
 
-INSTALLATION:
+<b>INSTALLATION:</b>
 
-1- clone git repository
+<b>1-</b> clone git repository
 
 <code>cd ~</code>
 
@@ -12,7 +13,7 @@ INSTALLATION:
 
 <code>cd Linux_Dynamic_Wallpapers</code>
 
-2- move cloned folders in /usr/share/backgrounds/
+<b>2-</b> move cloned folders in /usr/share/backgrounds/
 
 <code>sudo mv Dynamic_Wallpapers /usr/share/backgrounds/</code>
 
@@ -20,7 +21,7 @@ INSTALLATION:
 
 <code>sudo rm -r Linux_Dynamic_Wallpapers</code>
 
-3- install gnome-tweak-tool.
+<b>3-</b> install gnome-tweak-tool.
 
 Arch:
 
@@ -30,17 +31,17 @@ Ubuntu:
 
 <code>sudo apt install gnome-tweaks</code>
 
-4- open gnome tweaks and select xml file.
+<b>4-</b> open gnome tweaks and select xml file.
 
 e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave.xml
 
 <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png" width="512">
 
-5- (optional) : you can install [Night Theme Switcher](https://extensions.gnome.org/extension/2236/night-theme-switcher/) extension for gnome shell to Automatically toggle your light and dark theme.
+<b>5-</b> (optional) : you can install [Night Theme Switcher](https://extensions.gnome.org/extension/2236/night-theme-switcher/) extension for gnome shell to Automatically toggle your light and dark theme.
 
-6- enjoy!
+<b>6-</b> enjoy!
 
-SCREENSHOTS:
+<b>SCREENSHOTS:</b>
 
 <table>
   <tr>
