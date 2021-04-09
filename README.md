@@ -57,20 +57,19 @@ SCREENSHOTS:
     <td><img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2020-02-39.png" width="256"></td>
     <td><img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-06-30.png" width="256"></td>
   </tr>
+  <tr>
+    <th>Mojave</th>
+    <th>MojaveV2</th>
+    <th>Minimal Mojave</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-54.png" width="256"></td>
+    <td><img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-20-14.png" width="256"></td>
+    <td><img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-31.png" width="256"></td>
+    <td></td>
+  </tr>
 </table>
-
-Mojave: 16 diffrent images + smooth transitions + suitable for spring days! ([Source](https://gist.github.com/trongthanh/7d632e90687e1bc219e1f3262d337702))
-
-<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-54.png" width="512">
-<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-00-31.png" width="512">
-
-MojaveV2:
-
-<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-20-14.png" width="512">
-
-Minimal Mojave:
-
-<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-31.png" width="512">
 
 </Text>
 
