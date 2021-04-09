@@ -5,11 +5,11 @@ Tested on Manjaro Gnome 20.2.1
 
 <b>INSTALLATION:</b>
 
-<b>1. </b> clone git repository
+1. clone git repository
 
-<code>cd ~</code>
+...<code>cd ~</code>
 
-<code>git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git</code>
+...<code>git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git</code>
 
 <code>cd Linux_Dynamic_Wallpapers</code>
 
