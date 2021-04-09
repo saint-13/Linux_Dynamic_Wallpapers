@@ -6,7 +6,6 @@ Tested on Manjaro Gnome 20.2.1
 
 INSTALLATION:
 
-
 1- clone git repository
 
 <code>cd ~</code>
@@ -44,6 +43,21 @@ e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave.xml
 ![Screenshot](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png)
 
 SCREENSHOTS:
+
+<table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+</table>
 
 Surface:
 
