@@ -41,7 +41,7 @@ e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave.xml
 
 6- enjoy!
 
-![Screenshot](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png)
+![Screenshot](https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png = 512x512)
 
 <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png" width="512">
 
