@@ -1,8 +1,6 @@
 # Linux Dynamic Wallpapers
 <b>Dynamic wallpapers like MacOS for Linux</b>
 
-<span style="color:blue">some *blue* text</span>.
-
 Tested on Manjaro Gnome 20.2.1
 
 <b>INSTALLATION:</b>
