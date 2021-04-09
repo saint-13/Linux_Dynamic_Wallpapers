@@ -1,4 +1,4 @@
-# Dynamic Wallpapers for Linux
+# Linux Dynamic Wallpapers
 
 Tested on Manjaro Gnome 20.2.1
 
