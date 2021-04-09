@@ -5,7 +5,7 @@ Tested on Manjaro Gnome 20.2.1
 
 <b>INSTALLATION:</b>
 
-<b style="color:blue;">1-</b> clone git repository
+![#1589F0]<b style="color:blue;">1-</b> clone git repository
 
 <code>cd ~</code>
 
