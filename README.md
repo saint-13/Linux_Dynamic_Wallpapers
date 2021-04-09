@@ -1,6 +1,4 @@
-<Text>
-
-<b>Dynamic Wallpapers for Linux</b>
+# Dynamic Wallpapers for Linux
 
 Tested on Manjaro Gnome 20.2.1
 
@@ -85,6 +83,3 @@ SCREENSHOTS:
     </td>
   </tr>
 </table>
-
-</Text>
-
