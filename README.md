@@ -46,8 +46,8 @@ SCREENSHOTS:
 
 <table>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th>Surface</th>
+    <th><img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-07%2015-11-33.png" width="256"></th>
   </tr>
   <tr>
     <td>January</td>
@@ -59,9 +59,6 @@ SCREENSHOTS:
   </tr>
 </table>
 
-Surface:
-
-<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-07%2015-11-33.png" width="512">
 
 SurfaceBreeze:
 
