@@ -5,7 +5,7 @@ Tested on Manjaro Gnome 20.2.1
 
 <b>INSTALLATION:</b>
 
-![#1589F0](<b style="color:blue;">1-</b>) clone git repository
+-<b>1-</b> clone git repository
 
 <code>cd ~</code>
 
@@ -13,7 +13,7 @@ Tested on Manjaro Gnome 20.2.1
 
 <code>cd Linux_Dynamic_Wallpapers</code>
 
-<b style="color:blue;">2-</b> move cloned folders in /usr/share/backgrounds/
+<b>2-</b> move cloned folders in /usr/share/backgrounds/
 
 <code>sudo mv Dynamic_Wallpapers /usr/share/backgrounds/</code>
 
