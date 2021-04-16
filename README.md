@@ -64,7 +64,7 @@ Tested on Manjaro Gnome 20.2.1
     <th>Mojave</th>
     <th>MojaveV2</th>
     <th>Minimal Mojave</th>
-    <th></th>
+    <th>Catalina</th>
   </tr>
   <tr>
     <td>
@@ -77,6 +77,7 @@ Tested on Manjaro Gnome 20.2.1
       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-31.png" width="256">
     </td>
     <td>
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-07%2016-43-54.png" width="256">
     </td>
   </tr>
 </table>
