@@ -5,13 +5,23 @@ Tested on Manjaro Gnome 20.2.1
 
 <b>INSTALLATION:</b>
 
-1. clone git repository
+1. download package:
 
+   if you already installed this package, remove previous package before updating
+   
+       sudo rm -r /usr/share/backgrounds/Dynamic_Wallpapers
+       
+   clone git repository:
+   
        cd ~
        git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
        cd Linux_Dynamic_Wallpapers
 
-2. move cloned folders in /usr/share/backgrounds/
+   or download package from www.gnome-look.org/p/1499429/:
+       a. extrate package
+       b. go to extracted folder, right click and open terminal
+
+2. move Dynamic_Wallpapers folder to /usr/share/backgrounds/
 
        sudo mv Dynamic_Wallpapers /usr/share/backgrounds/
        cd ~
@@ -27,9 +37,10 @@ Tested on Manjaro Gnome 20.2.1
 
        sudo apt install gnome-tweaks
 
-4. open gnome tweaks and select xml file.
+4. open gnome tweaks and select xml file. 
 
     e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave.xml
+    Warning: if wallpaper does not show properly, you need to change all files and folder's permission in /usr/share/backgrounds/Dynamic_Wallpapers from root to your username
 
 <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png" width="512">
 
