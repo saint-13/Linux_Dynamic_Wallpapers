@@ -17,7 +17,7 @@ Tested on Manjaro Gnome 20.2.1
        git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
        cd Linux_Dynamic_Wallpapers
 
-   or download package from www.gnome-look.org/p/1499429/:
+   or... download package from www.gnome-look.org/p/1499429/:
    
       *  extrate package
       
