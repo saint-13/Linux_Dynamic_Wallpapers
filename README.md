@@ -111,7 +111,6 @@ Tested on Manjaro Gnome 20.2.1
       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2014-07-26.png" width="256">
     </td>
     <td>
-      
     </td>
   </tr>
 </table>
