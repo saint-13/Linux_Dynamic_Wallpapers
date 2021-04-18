@@ -18,8 +18,10 @@ Tested on Manjaro Gnome 20.2.1
        cd Linux_Dynamic_Wallpapers
 
    or download package from www.gnome-look.org/p/1499429/:
-       a. extrate package
-       b. go to extracted folder, right click and open terminal
+   
+      a. extrate package
+      
+      b. go to extracted folder, right click and open terminal
 
 2. move Dynamic_Wallpapers folder to /usr/share/backgrounds/
 
