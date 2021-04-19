@@ -62,16 +62,16 @@ Tested on Manjaro Gnome 20.2.1
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-07%2015-11-33.png" width="256">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-07%2015-11-33.png" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-31%2001-26-13.png" width="256">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-31%2001-26-13.png" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2020-02-39.png" width="256">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2020-02-39.png" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-06-30.png" width="256">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-06-30.png" width="128">
     </td>
   </tr>
   <tr>
@@ -82,16 +82,16 @@ Tested on Manjaro Gnome 20.2.1
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-54.png" width="256">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-54.png" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-20-14.png" width="256">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-20-14.png" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-31.png" width="256">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-31.png" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-07%2016-43-54.png" width="256">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-07%2016-43-54.png" width="128">
     </td>
   </tr>
   <tr>
@@ -102,13 +102,13 @@ Tested on Manjaro Gnome 20.2.1
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2013-11-51.png" width="256">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2013-11-51.png" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2018-21-08.png" width="256">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2018-21-08.png" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2014-07-26.png" width="256">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2014-07-26.png" width="128">
     </td>
     <td>
     </td>
