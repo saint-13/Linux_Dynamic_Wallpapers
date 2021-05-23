@@ -104,16 +104,42 @@ Tested on Manjaro Gnome 20.2.1
   </tr>
   <tr>
     <th>ZorinBlur</th>
-    <th></th>
+    <th>Coast</th>
+    <th>Desert</th>
+    <th>Material</th>
+    <th>RockyMountain</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2014-07-26.png" width="128">
+    </td>
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-17%2022-32-53.png" width="128">
+    <td>
+    </td>
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2018-25-13.png" width="128">
+    <td>
+    </td>
+      <img src="" width="128">
+    <td>
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2016-34-43.png" width="128">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2017-18-49.png" width="128">
+    </td>
+  </tr>
+  <tr>
+    <th>WeYamle</th>
+    <th>WhiteLighthouse</th>
     <th></th>
     <th></th>
     <th></th>
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2014-07-26.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-17%2022-33-18.png" width="128">
     </td>
     <td>
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2018-04-10.png" width="128">
     </td>
     <td>
     </td>
