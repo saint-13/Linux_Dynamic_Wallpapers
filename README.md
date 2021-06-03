@@ -4,7 +4,7 @@
 
 <b>Dynamic wallpapers like MacOS for Linux</b>
 
-Tested on Manjaro Gnome 20.2.1
+   * Tested on Manjaro Gnome 20.2.1
 
 <b>INSTALLATION:</b>
 
