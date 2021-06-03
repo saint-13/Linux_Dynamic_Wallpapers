@@ -165,13 +165,10 @@ Tested on Manjaro Gnome 20.2.1
       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/UbuntuMinimal.gif" width="128">
     </td>
     <td>
-
     </td>
     <td>
-
     </td>
     <td>
-
     </td>
   </tr>
 </table>
