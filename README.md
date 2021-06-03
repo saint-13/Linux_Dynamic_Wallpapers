@@ -1,5 +1,7 @@
 # Linux Dynamic Wallpapers
+
 <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Logo.png" width="128">
+
 <b>Dynamic wallpapers like MacOS for Linux</b>
 
 Tested on Manjaro Gnome 20.2.1
