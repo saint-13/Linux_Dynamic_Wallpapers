@@ -129,7 +129,7 @@ Tested on Manjaro Gnome 20.2.1
   <tr>
     <th>WeYamle</th>
     <th>WhiteLighthouse</th>
-    <th>EOS-SnowCappedMountain</th>
+    <th>EOS-SnowMountain</th>
     <th>EOS-Sunset</th>
     <th>EOS-ViktorForgacs</th>
   </tr>
