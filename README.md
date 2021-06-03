@@ -63,19 +63,19 @@ Tested on Manjaro Gnome 20.2.1
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-07%2015-11-33.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Surface.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-31%2001-26-13.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/SurfaceBreeze.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2020-02-39.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/BigSur.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-06-30.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/BigSurV2.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-07%2016-43-54.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Catalina.gif" width="128">
     </td>
   </tr>
   <tr>
@@ -87,19 +87,19 @@ Tested on Manjaro Gnome 20.2.1
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-54.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Mojave.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-20-14.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/MojaveV2.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2018-19-31.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Minimal-Mojave.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2013-11-51.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/ZorinMountain.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2018-21-08.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/ZorinMountainFog.gif" width="128">
     </td>
   </tr>
   <tr>
@@ -111,43 +111,67 @@ Tested on Manjaro Gnome 20.2.1
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2014-07-26.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/ZorinBlur.gif" width="128">
     </td>
     <td>
-       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-17%2022-32-53.png" width="128">
+       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Coast.gif" width="128">
     </td>
     <td>
-       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2018-25-13.png" width="128">
+       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Desert.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2016-34-43.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Material.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2017-18-49.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/RockyMountain.gif" width="128">
     </td>
   </tr>
   <tr>
-    <th>WeYamle</th>
     <th>WhiteLighthouse</th>
+    <th>WeYamle</th>
     <th>SnowMountain</th>
     <th>Sunset</th>
     <th>ViktorForgacs</th>
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-17%2022-33-18.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/WhiteLighthouse.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2018-04-10.png" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-WeYamle.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-SnowCappedMountain2.gif" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-SnowCappedMountain.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-Sunset2.gif" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-Sunset.gif" width="128">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-ViktorForgacs2.gif" width="128">
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-ViktorForgacs.gif" width="128">
+    </td>
+  </tr>
+  <tr>
+    <th>MagicLake</th>
+    <th>UbuntuMinimal</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/MagicLake.gif" width="128">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/UbuntuMinimal.gif" width="128">
+    </td>
+    <td>
+      <img src="" width="128">
+    </td>
+    <td>
+      <img src="" width="128">
+    </td>
+    <td>
+      <img src="" width="128">
     </td>
   </tr>
 </table>
