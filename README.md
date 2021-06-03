@@ -129,9 +129,9 @@ Tested on Manjaro Gnome 20.2.1
   <tr>
     <th>WeYamle</th>
     <th>WhiteLighthouse</th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>EOS-SnowCappedMountain</th>
+    <th>EOS-Sunset</th>
+    <th>EOS-ViktorForgacs</th>
   </tr>
   <tr>
     <td>
@@ -141,10 +141,13 @@ Tested on Manjaro Gnome 20.2.1
       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-04-18%2018-04-10.png" width="128">
     </td>
     <td>
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-SnowCappedMountain2.gif" width="128">
     </td>
     <td>
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-Sunset2.gif" width="128">
     </td>
     <td>
+      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-ViktorForgacs2.gif" width="128">
     </td>
   </tr>
 </table>
