@@ -20,13 +20,26 @@
        git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
        cd Linux_Dynamic_Wallpapers
 
-   or... download package from www.gnome-look.org/p/1499429/:
+2. install it with command : 
+   
+       sudo bash ./install.sh
+
+3. change your wallpaper from setting>Backgrounds
+
+4. that's it. enjoy!
+
+
+
+
+old method for instasllation : -----------------------------------------
+
+1. download package from www.gnome-look.org/p/1499429/:
    
       *  extrate package
       
       *  go to extracted folder, right click and open in terminal
 
-2. move Dynamic_Wallpapers folder to /usr/share/backgrounds/
+2  move Dynamic_Wallpapers folder to /usr/share/backgrounds/
 
        sudo mv Dynamic_Wallpapers /usr/share/backgrounds/
        cd ~
