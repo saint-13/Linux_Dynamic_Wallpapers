@@ -28,45 +28,6 @@
 
 4. that's it. enjoy!
 
-
-
-
-old method for instasllation : -----------------------------------------
-
-1. download package from www.gnome-look.org/p/1499429/:
-   
-      *  extrate package
-      
-      *  go to extracted folder, right click and open in terminal
-
-2  move Dynamic_Wallpapers folder to /usr/share/backgrounds/
-
-       sudo mv Dynamic_Wallpapers /usr/share/backgrounds/
-       cd ~
-       sudo rm -r Linux_Dynamic_Wallpapers
-
-3. install gnome-tweak-tool.
-
-    Arch:
-
-       sudo pacman -S gnome-tweaks
-
-    Ubuntu:
-
-       sudo apt install gnome-tweaks
-
-4. open gnome tweaks and select xml file. 
-
-    e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave.xml
-    
-    Warning: if wallpaper does not show properly, you need to change all files and folder's permission in /usr/share/backgrounds/Dynamic_Wallpapers from root to your username
-
-<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png" width="512">
-
-5. (optional) : you can install [Night Theme Switcher](https://extensions.gnome.org/extension/2236/night-theme-switcher/) extension for gnome shell to Automatically toggle your light and dark theme.
-
-6. enjoy!
-
 <b>SCREENSHOTS:</b>
 
 <table>
@@ -188,3 +149,41 @@ old method for instasllation : -----------------------------------------
     </td>
   </tr>
 </table>
+
+
+
+old method for instasllation : -----------------------------------------
+
+1. download package from www.gnome-look.org/p/1499429/:
+   
+      *  extrate package
+      
+      *  go to extracted folder, right click and open in terminal
+
+2  move Dynamic_Wallpapers folder to /usr/share/backgrounds/
+
+       sudo mv Dynamic_Wallpapers /usr/share/backgrounds/
+       cd ~
+       sudo rm -r Linux_Dynamic_Wallpapers
+
+3. install gnome-tweak-tool.
+
+    Arch:
+
+       sudo pacman -S gnome-tweaks
+
+    Ubuntu:
+
+       sudo apt install gnome-tweaks
+
+4. open gnome tweaks and select xml file. 
+
+    e.g: select : /usr/share/backgrounds/Dynamic_Wallpapers/Mojave.xml
+    
+    Warning: if wallpaper does not show properly, you need to change all files and folder's permission in /usr/share/backgrounds/Dynamic_Wallpapers from root to your username
+
+<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Screenshot%20from%202021-03-30%2019-45-07.png" width="512">
+
+5. (optional) : you can install [Night Theme Switcher](https://extensions.gnome.org/extension/2236/night-theme-switcher/) extension for gnome shell to Automatically toggle your light and dark theme.
+
+6. enjoy!
