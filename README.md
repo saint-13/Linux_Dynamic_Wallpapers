@@ -24,7 +24,7 @@
    
        sudo bash ./install.sh
 
-3. change your wallpaper from setting>Backgrounds
+3. change your wallpaper from: settings > Backgrounds
 
 4. that's it. enjoy!
 
