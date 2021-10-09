@@ -13,17 +13,17 @@
    if you already installed this package, remove previous package before updating
    
        sudo rm -r /usr/share/backgrounds/Dynamic_Wallpapers
-       
-   clone git repository:
+   
+   if you already cloned repository, just pull to fetch recent changes:
+   
+       cd ~/Linux_Dynamic_Wallpapers
+       git pull
+   
+   if not, clone git repository:
    
        cd ~
        git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
        cd Linux_Dynamic_Wallpapers
-   
-   if already cloned repository, just pull to fetch recent changes:
-   
-       cd ~/Linux_Dynamic_Wallpapers
-       git pull
 
 2. install it with command : 
    
