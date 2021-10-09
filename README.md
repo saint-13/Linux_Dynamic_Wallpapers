@@ -19,6 +19,11 @@
        cd ~
        git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
        cd Linux_Dynamic_Wallpapers
+   
+   if already cloned repository, just pull to fetch recent changes:
+   
+       cd ~/Linux_Dynamic_Wallpapers
+       git pull
 
 2. install it with command : 
    
