@@ -135,7 +135,7 @@
   <tr>
     <th>MagicLake</th>
     <th>UbuntuMinimal</th>
-    <th></th>
+    <th>cyberpunk-01</th>
     <th></th>
     <th></th>
   </tr>
