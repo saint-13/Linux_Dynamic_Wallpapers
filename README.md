@@ -4,34 +4,34 @@
 
 <b>[Dynamic wallpapers like MacOS for Linux](https://www.gnome-look.org/p/1499429/)</b>
 
-   * Tested on Manjaro Gnome 20.2.1
+-   Tested on Manjaro Gnome 20.2.1
 
 <b>INSTALLATION:</b>
 
-1. download package:
+1.  download package:
 
-   if you already installed this package, remove previous package before updating
-   
-       sudo rm -r /usr/share/backgrounds/Dynamic_Wallpapers
-   
-   if you already cloned repository, just pull to fetch recent changes:
-   
-       cd ~/Linux_Dynamic_Wallpapers
-       git pull
-   
-   if not, clone git repository:
-   
-       cd ~
-       git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
-       cd Linux_Dynamic_Wallpapers
+    if you already installed this package, remove previous package before updating
 
-2. install it with command : 
-   
-       sudo bash ./install.sh
+        sudo rm -r /usr/share/backgrounds/Dynamic_Wallpapers
 
-3. change your wallpaper from: settings > Backgrounds
+    if you already cloned repository, just pull to fetch recent changes:
 
-4. that's it. enjoy!
+        cd ~/Linux_Dynamic_Wallpapers
+        git pull
+
+    if not, clone git repository:
+
+        cd ~
+        git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
+        cd Linux_Dynamic_Wallpapers
+
+2.  install it with command :
+
+    sudo bash ./install.sh
+
+3.  change your wallpaper from: settings > Backgrounds
+
+4.  that's it. enjoy!
 
 <b>SCREENSHOTS:</b>
 
@@ -146,11 +146,13 @@
     <td>
       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/UbuntuMinimal.gif" width="128">
     </td>
-    <td>
+   <td>
+      <img src="https://raw.githubusercontent.com/comradecat24/Linux_Dynamic_Wallpapers/main/Screenshots/cyberpunk-01.gif" width="128">
     </td>
     <td>
     </td>
     <td>
     </td>
+  
   </tr>
 </table>
