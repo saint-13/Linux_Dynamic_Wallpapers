@@ -136,7 +136,7 @@
     <th>MagicLake</th>
     <th>UbuntuMinimal</th>
     <th>Cyberpunk 01</th>
-    <th></th>
+    <th>GoldenSand</th>
     <th></th>
   </tr>
   <tr>
@@ -150,6 +150,7 @@
       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/cyberpunk-01.gif" width="128">
     </td>
     <td>
+    	<img src=https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/GoldenSand.gif" width="128">
     </td>
     <td>
     </td>
