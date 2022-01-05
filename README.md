@@ -150,7 +150,7 @@
       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/cyberpunk-01.gif" width="128">
     </td>
     <td>
-    	<img src=https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/GoldenSand.gif" width="128">
+    	<img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/GoldenSand.gif" width="128">
     </td>
     <td>
     </td>
