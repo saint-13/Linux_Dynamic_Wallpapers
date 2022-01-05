@@ -137,7 +137,7 @@
     <th>UbuntuMinimal</th>
     <th>Cyberpunk 01</th>
     <th>GoldenSand</th>
-    <th></th>
+    <th>Win11Lake</th>
   </tr>
   <tr>
     <td>
@@ -153,6 +153,7 @@
     	<img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/GoldenSand.gif" width="128">
     </td>
     <td>
+    	<img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Win11Lake.gif" width="128">
     </td>
   
   </tr>
