@@ -136,7 +136,7 @@
     <th>MagicLake</th>
     <th>UbuntuMinimal</th>
     <th>Cyberpunk 01</th>
-    <th>GoldenSand</th>
+    <th>DesertSands</th>
     <th>Win11Lake</th>
   </tr>
   <tr>
