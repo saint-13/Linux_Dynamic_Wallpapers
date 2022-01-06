@@ -10,10 +10,6 @@
 
 1.  download package:
 
-    if you already installed this package, remove previous package before updating
-
-        sudo rm -r /usr/share/backgrounds/Dynamic_Wallpapers
-
     if you already cloned repository, just pull to fetch recent changes:
 
         cd ~/Linux_Dynamic_Wallpapers
