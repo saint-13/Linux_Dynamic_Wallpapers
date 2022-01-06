@@ -6,30 +6,54 @@
 
 -   Tested on Manjaro Gnome 20.2.1
 
-<b>INSTALLATION:</b>
+:gear: <b>INSTALLATION:</b>
+	
+<b>Method 1:</b> Easy but time & data consuming :hourglass_flowing_sand:
 
-1.  download package:
+1. Download Easy_Install.sh file
 
-    if you already cloned repository, just pull to fetch recent changes:
+2. Open terminal in its directory
 
+3. Run the following command:
+
+	```
+	sudo bash ./Easy_Install.sh
+	```
+3. Change your wallpaper from: Settings > Backgrounds
+
+4. That's it. Enjoy! :tada:
+
+<b>Method 2:</b> for *almost* experts but saves time and data :nerd_face:
+
+1. Download package:
+
+    - if you already cloned repository, just pull to fetch recent changes:
+        
+        ```
+        
         cd ~/Linux_Dynamic_Wallpapers
-        git pull
+        git pull 
+        
+        ```
 
-    if not, clone git repository:
-
+    - if not, clone git repository:
+        
+        ```
         cd ~
         git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
         cd Linux_Dynamic_Wallpapers
-
-2.  install it with command :
-
+        ```
+2. Run the command :
+    
+    ```
     sudo bash ./install.sh
+    ```
 
-3.  change your wallpaper from: settings > Backgrounds
+3. Change your wallpaper from: Settings > Backgrounds
 
-4.  that's it. enjoy!
+4. That's it. Enjoy! :tada:
 
-<b>SCREENSHOTS:</b>
+:art: <b>SCREENSHOTS:</b>
 
 <table>
   <tr>
