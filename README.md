@@ -30,10 +30,8 @@
     - if you already cloned repository, just pull to fetch recent changes:
         
         ```
-        
         cd ~/Linux_Dynamic_Wallpapers
         git pull 
-        
         ```
 
     - if not, clone git repository:
