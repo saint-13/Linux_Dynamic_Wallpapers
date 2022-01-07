@@ -6,9 +6,9 @@
 
 -   Tested on Manjaro Gnome 20.2.1
 
-:gear: <b>INSTALLATION:</b>
+## :gear: INSTALLATION:
 	
-<b>Method 1:</b> Easy but time & data consuming :hourglass_flowing_sand:
+### Method 1: Easy but time & data consuming :hourglass_flowing_sand:
 
 1. Download Easy_Install.sh file
 
@@ -23,8 +23,9 @@
 
 4. That's it. Enjoy! :tada:
 
-<b>Method 2:</b> for *almost* experts but saves time and data :nerd_face:
+### Method 2: for *almost* experts but saves time and data :nerd_face:
 
+        ```
 1. Download package:
 
     - if you already cloned repository, just pull to fetch recent changes:
@@ -32,16 +33,15 @@
         ```
         cd ~/Linux_Dynamic_Wallpapers
         git pull 
-        ```
 
     - if not, clone git repository:
+2. Run the command :
         
         ```
         cd ~
         git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
         cd Linux_Dynamic_Wallpapers
         ```
-2. Run the command :
     
     ```
     sudo bash ./install.sh
@@ -51,7 +51,7 @@
 
 4. That's it. Enjoy! :tada:
 
-:art: <b>SCREENSHOTS:</b>
+## :art: SCREENSHOTS:
 
 <table>
   <tr>
