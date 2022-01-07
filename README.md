@@ -31,24 +31,22 @@
     - if you already cloned repository, just pull to fetch recent changes:
         
         ```
-        	cd ~/Linux_Dynamic_Wallpapers
-        	git pull
+        cd ~/Linux_Dynamic_Wallpapers
+        git pull
         ```
         
     - if not, clone git repository:
     
- 	```
-    		cd ~
-    		git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
-    		cd Linux_Dynamic_Wallpapers
-	```
+      ```
+      cd ~
+      git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
+      cd Linux_Dynamic_Wallpapers
+      ```
  	       
 2. Run the command:
 
-        ```
-    		sudo bash ./install.sh
-	```
-	
+    	sudo bash ./install.sh
+
 3. Change your wallpaper from: Settings > Backgrounds
 
 4. That's it. Enjoy! :tada:
