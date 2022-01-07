@@ -8,7 +8,7 @@
 
 ## :gear: INSTALLATION:
 	
-### Method 1: Easy but time & data consuming :hourglass_flowing_sand:
+#### Method 1: Easy but time & data consuming :hourglass_flowing_sand:
 
 1. Download Easy_Install.sh file
 
@@ -23,29 +23,25 @@
 
 4. That's it. Enjoy! :tada:
 
-### Method 2: for *almost* experts but saves time and data :nerd_face:
+#### Method 2: for *almost* experts but saves time and data :nerd_face:
 
-        ```
 1. Download package:
 
     - if you already cloned repository, just pull to fetch recent changes:
         
         ```
         cd ~/Linux_Dynamic_Wallpapers
-        git pull 
-
+        git pull 	
+        ```
     - if not, clone git repository:
-2. Run the command :
+2. Run the commands :
         
         ```
         cd ~
         git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
         cd Linux_Dynamic_Wallpapers
+    	sudo bash ./install.sh
         ```
-    
-    ```
-    sudo bash ./install.sh
-    ```
 
 3. Change your wallpaper from: Settings > Backgrounds
 
