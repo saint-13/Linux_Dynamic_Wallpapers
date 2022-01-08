@@ -59,7 +59,6 @@
     <th>SurfaceBreeze</th>
     <th>BigSur</th>
     <th>BigSurV2</th>
-    <th>Catalina</th>
   </tr>
   <tr>
     <td>
@@ -74,16 +73,12 @@
     <td>
       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/BigSurV2.gif" width="128">
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Catalina.gif" width="128">
-    </td>
   </tr>
   <tr>
     <th>Mojave</th>
     <th>MojaveV2</th>
     <th>Minimal Mojave</th>
     <th>ZorinMountain</th>
-    <th>ZorinMountainFog</th>
   </tr>
   <tr>
     <td>
@@ -98,16 +93,12 @@
     <td>
       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/ZorinMountain.gif" width="128">
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/ZorinMountainFog.gif" width="128">
-    </td>
   </tr>
   <tr>
     <th>ZorinBlur</th>
     <th>Coast</th>
     <th>Desert</th>
     <th>Material</th>
-    <th>RockyMountain</th>
   </tr>
   <tr>
     <td>
@@ -122,16 +113,12 @@
     <td>
       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Material.gif" width="128">
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/RockyMountain.gif" width="128">
-    </td>
   </tr>
   <tr>
     <th>WhiteLighthouse</th>
     <th>WeYamle</th>
     <th>SnowMountain</th>
     <th>Sunset</th>
-    <th>ViktorForgacs</th>
   </tr>
   <tr>
     <td>
@@ -146,16 +133,12 @@
     <td>
       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-Sunset.gif" width="128">
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-ViktorForgacs.gif" width="128">
-    </td>
   </tr>
   <tr>
     <th>MagicLake</th>
     <th>UbuntuMinimal</th>
     <th>Cyberpunk 01</th>
     <th>DesertSands</th>
-    <th>Win11Lake</th>
   </tr>
   <tr>
     <td>
@@ -170,31 +153,47 @@
     <td>
     	<img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DesertSands.gif" width="128">
     </td>
-    <td>
-    	<img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Win11Lake.gif" width="128">
-    </td>
   
   </tr>
   <tr>
     <th>Monterey</th>
     <th>DynamicFry</th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>Dome</th>
+    <th>Catalina</th>
   </tr>
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Monterey.gif" width="128">
     </td>
     <td>
-    <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DynamicFry.gif" width="128">
+    	 <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DynamicFry.gif" width="128">
     </td>
     <td>
-    <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Dome.gif" width="128">
+   	<img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Dome.gif" width="128">
     </td>
     <td>
-    </td>
-    <td>
+    	<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Catalina.gif" width="128">
     </td>
    </tr>
+     <tr>
+    <th>ZorinMountainFog</th>
+    <th>RockyMountain</th>
+    <th>ViktorForgacs</th>
+    <th>Win11Lake</th>
+  </tr>
+  <tr>
+    <td>
+  	  <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/ZorinMountainFog.gif" width="128">
+    </td>
+    <td>
+  	  <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/RockyMountain.gif" width="128">
+    </td>
+    <td>
+ 	   <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-ViktorForgacs.gif" width="128">
+    </td>
+    <td>
+    	   <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Win11Lake.gif" width="128">
+    </td>
+   </tr>
+
 </table>
