@@ -177,7 +177,7 @@
   </tr>
   <tr>
     <th>Monterey</th>
-    <th></th>
+    <th>DynamicFry</th>
     <th></th>
     <th></th>
     <th></th>
@@ -187,8 +187,10 @@
       <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Monterey.gif" width="128">
     </td>
     <td>
+    <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DynamicFry.gif" width="128">
     </td>
     <td>
+    <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Dome.gif" width="128">
     </td>
     <td>
     </td>
