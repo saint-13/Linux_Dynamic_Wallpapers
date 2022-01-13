@@ -203,5 +203,22 @@
     	   <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Win11Lake.gif" width="128">
     </td>
    </tr>
+    <tr>
+    <th>Mountain</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/FedeMarinMountain.gif" width="128">
+    </td>
+    <td> 
+       </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
 
 </table>
