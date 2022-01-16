@@ -205,8 +205,8 @@
    </tr>
     <tr>
     <th>FedeMarin Mountain</th>
-    <th></th>
-    <th></th>
+    <th>Padar Island</th>
+    <th>Lofi Girl</th>
     <th></th>
   </tr>
   <tr>
@@ -214,8 +214,10 @@
       <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/FedeMarinMountain.gif" width="128">
     </td>
     <td> 
-       </td>
+      <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/PadarIsland.gif" width="128">
+     </td>
     <td>
+      <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/LofiGirl.gif" width="128">
     </td>
     <td>
     </td>
