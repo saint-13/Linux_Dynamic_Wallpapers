@@ -225,7 +225,7 @@
    </tr>
    <tr>
     <th>Desert Tree</th>
-    <th></th>
+    <th>Desert Valley</th>
     <th></th>
     <th></th>
   </tr>
@@ -234,6 +234,7 @@
     <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DesertTree.gif" width="128">
     </td>
     <td>
+     <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DesertValley.gif" width="128">
     </td>
     <td>
     </td>
