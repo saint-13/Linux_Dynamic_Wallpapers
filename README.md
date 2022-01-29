@@ -203,5 +203,61 @@
     	   <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Win11Lake.gif" width="128">
     </td>
    </tr>
+    <tr>
+    <th>FedeMarin Mountain</th>
+    <th>Padar Island</th>
+    <th>Lofi Girl</th>
+    <th>Desert Peak</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/FedeMarinMountain.gif" width="128">
+    </td>
+    <td> 
+      <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/PadarIsland.gif" width="128">
+     </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/LofiGirl.gif" width="128">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DesertPeak.gif" width="128">
+    </td>
+   </tr>
+   <tr>
+    <th>Desert Tree</th>
+    <th>Desert Valley</th>
+    <th>Lake The Cliff</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>
+    <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DesertTree.gif" width="128">
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DesertValley.gif" width="128">
+    </td>
+    <td>
+     <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/LakeTheCliff.gif" width="128">
+    </td>
+    <td>
+    </td>
+   </tr>
+   
+   <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
 
 </table>
