@@ -30,8 +30,8 @@
 ### Desert
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Desert	   	              														        | Surface		     														     | Surface Breeze												 		             | 															     			 |
-| <img class="img1" src="Screenshots/Desert.gif" width="128" height="80"> 		| <img class="img1" src="Screenshots/Surface.gif" width="128" height="80">	     | <img src="Screenshots/SurfaceBreeze.gif" width="128" height="80">			     | 															     			 |
+| Desert	   	              														        | Surface		     														     | Surface Breeze												 		             | Desert 													     			 |
+| <img class="img1" src="Screenshots/Desert.gif" width="128" height="80"> 		| <img class="img1" src="Screenshots/Surface.gif" width="128" height="80">	     | <img src="Screenshots/SurfaceBreeze.gif" width="128" height="80">			     | <img src="Screenshots/DesertSands.gif" width="128" height="80"> 		|
 
 ### Cities
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
