@@ -21,8 +21,8 @@
 ### Lake & Sea & River
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Windows 11 Lake 														        | Coast	     																     | Sunset										 					     	             | 															     			 |
-| <img class="img1" src="Screenshots/Win11Lake.gif" width="128" height="80">      | <img class="img1" src="Screenshots/Coast.gif" width="128" height="80">	     | <img class="img1" src="Screenshots/EOS-Sunset.gif" width="128" height="80">    | 															     			 |
+| Windows 11 Lake 														        | Coast	     																     | Sunset										 					     	             | Magic Lake												     			 |
+| <img class="img1" src="Screenshots/Win11Lake.gif" width="128" height="80">      | <img class="img1" src="Screenshots/Coast.gif" width="128" height="80">	     | <img class="img1" src="Screenshots/EOS-Sunset.gif" width="128" height="80">    | <img src="Screenshots/MagicLake.gif" width="128" height="80"> 		 |
 
 ### Desert
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -33,14 +33,22 @@
 ### Cities
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Cyberpunk        															        | 		     																     | 												 					     	             | 															     			 |
-| <img class="img1" src="Screenshots/cyberpunk-01.gif" width="128" height="80"> | 		     																     | 												 					     	             | 															     			 |
+| Cyberpunk        															        | Viktor Forgacs			     												     | 												 					     	             | 															     			 |
+| <img class="img1" src="Screenshots/cyberpunk-01.gif" width="128" height="80"> | <img src="Screenshots/EOS-ViktorForgacs.gif" width="128" height="80"> 	     | 												 					     	             | 															     			 |
 
 ### Mountains
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Snow Capped Mountain													        | 		     																     | 												 					     	             | 															     			 |
-| <img src="Screenshots/EOS-SnowCappedMountain.gif" width="128" height="80"> | 		     																     | 												 					     	             | 															     			 |
+| Snow Capped Mountain													        | We Yamle		     														     | Fede Marin Mountain 											     	             | Padar Island															 |
+| <img src="Screenshots/EOS-SnowCappedMountain.gif" width="128" height="80"> | <img class="img1" src="Screenshots/EOS-WeYamle.gif" width="128" height="80">| <img src="Screenshots/FedeMarinMountain.gif" width="128" height="80"> 	     | <img src="Screenshots/PadarIsland.gif" width="128" height="80">   															     			 |
+| Rocky Mountain  														        | 		     																     | 												 					     	             | 															     			 |
+| <img src="Screenshots/RockyMountain.gif" width="128" height="80">  	   	        | 		     																     | 												 					     	             | 															     			 |
+
+### Abstract
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Material	   	              													        | 		     																     | 												 					     	             | 															     			 |
+| <img src="Screenshots/Material.gif" width="128" height="80">               		        | 		     																     | 												 					     	             | 															     			 |
 
 <!--
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
