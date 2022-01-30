@@ -1,3 +1,5 @@
+# Dynamic Wallpapers for Linux
+## Preview
 ### Apple Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
@@ -21,15 +23,15 @@
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Windows 11 Lake 														        | Coast	     																     | Sunset										 					     	             | Magic Lake												     			 |
 | <img class="img1" src="Screenshots/Win11Lake.gif" width="128" height="80">      | <img class="img1" src="Screenshots/Coast.gif" width="128" height="80">	     | <img class="img1" src="Screenshots/EOS-Sunset.gif" width="128" height="80">    | <img src="Screenshots/MagicLake.gif" width="128" height="80"> 		 |
+| White Lighthouse 	              													| 		     																     | 												 					     	             | 															     			 |
+| <img src="Screenshots/WhiteLighthouse.gif" width="128" height="80">	   	        | 		     																     | 												 					     	             | 															     			 |
+
 
 ### Desert
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Desert	   	              														        | Surface		     														     | Surface Breeze												 		             | 															     			 |
 | <img class="img1" src="Screenshots/Desert.gif" width="128" height="80"> 		| <img class="img1" src="Screenshots/Surface.gif" width="128" height="80">	     | <img src="Screenshots/SurfaceBreeze.gif" width="128" height="80">			     | 															     			 |
-| White Lighthouse 	              													| 		     																     | 												 					     	             | 															     			 |
-| <img src="Screenshots/WhiteLighthouse.gif" width="128" height="80">	   	        | 		     																     | 												 					     	             | 															     			 |
-
 
 ### Cities
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -58,6 +60,50 @@
 | 	   	              															        | 		     																     | 												 					     	             | 															     			 |
 -->
 
+## :gear: Installation:
+	
+#### Method 1: Easy but time & data consuming :hourglass_flowing_sand:
+
+1. Download Easy_Install.sh file
+
+2. Open terminal in its directory
+
+3. Run the following command:
+
+	```
+	sudo bash ./Easy_Install.sh
+	```
+	
+4. Change your wallpaper from: Settings > Backgrounds
+
+5. That's it. Enjoy! :tada:
+
+#### Method 2: for *experts* but saves time and data :nerd_face:
+
+1. Download package:
+
+    - if you already cloned repository, just pull to fetch recent changes:
+        
+        ```
+        cd ~/Linux_Dynamic_Wallpapers
+        git pull
+        ```
+        
+    - if not, clone git repository:
+    
+      ```
+      cd ~
+      git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
+      cd Linux_Dynamic_Wallpapers
+      ```
+ 	       
+2. Run the command:
+
+    	sudo bash ./install.sh
+
+3. Change your wallpaper from: Settings > Backgrounds
+
+4. That's it. Enjoy! :tada:
 
 
 
