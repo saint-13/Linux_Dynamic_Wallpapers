@@ -134,11 +134,14 @@ Emoji | Description
 
 ## :revolving_hearts: Countributors
 Thanks goes to these wonderful people
-
-| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+@saint-13
+@amro_solaiman
+@ComradeCat24
+@Mohammedziad599
+<!--| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 |[saint-13](https://github.com/saint-13)										       	| [amro_solaiman](https://github.com/amrosolaiman)						     | [ComradeCat24](https://github.com/ComradeCat24)		 	  			     | [Mohammedziad599](https://github.com/Mohammedziad599)		         |
 | <img src="https://avatars.githubusercontent.com/u/68790180?v=4" width="128" height="80"> | <img src="https://avatars.githubusercontent.com/u/81815707?v=4" width="128" height="80">			     															     | <img src="https://avatars.githubusercontent.com/u/72916962?v=4" width="128" height="80"> | <img src="https://avatars.githubusercontent.com/u/32648922?v=4" width="128" height="80"> |																	         |
-
+-->
 
 
