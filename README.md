@@ -132,4 +132,13 @@ Emoji | Description
 :truck: `:truck:` | When you moved / renamed something.
 
 
+:revolving_hearts: Countributors
+Thanks goes to these wonderful people
+
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+|[saint-13](https://github.com/saint-13)										       	| [amro_solaiman](https://github.com/amrosolaiman)						     | [ComradeCat24](https://github.com/ComradeCat24)		 	  			     | [Mohammedziad599](https://github.com/Mohammedziad599)		         |
+|			   	              										        			| 			     															     | 															   	  			     | 																	         |
+
+
 
