@@ -16,7 +16,7 @@
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Lofi Dino	   	              													        | Lofi Girl		     														     | Lofi Alex 																     | Dynamic Fry													 		 |
-| <img class="img1" src="Screenshots/LofiDino.gif" width="128" height="80"> 		| <img src="Screenshots/LofiAlex.gif" width="128" height="80">				     | <img class="img1" src="Screenshots/LofiAlex.gif" width="128" height="80">	     | <img src="Screenshots/DynamicFry.gif" width="128" height="80"> 		 |
+| <img class="img1" src="Screenshots/LofiDino.gif" width="128" height="80"> 		| <img src="Screenshots/LofiGirl.gif" width="128" height="80">				     | <img class="img1" src="Screenshots/LofiAlex.gif" width="128" height="80">	     | <img src="Screenshots/DynamicFry.gif" width="128" height="80"> 		 |
 
 ### Lake & Sea & River
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
