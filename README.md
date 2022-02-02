@@ -108,7 +108,7 @@
 ## :octocat: I want to contribute!
 
 That's great!
-Here are some basic rulles to get you started:
+Here are some basic rules to get you started:
 Commits should start with a Capital letter and should be written in present tense (e.g. __:tada: Add cool new feature__ instead of __:tada: Added cool new feature__).
 You should also start your commit message with **one** applicable emoji.
 This does not only look great but also makes you rethink what to add to a commit. Make many but small commits!
@@ -131,6 +131,9 @@ Emoji | Description
 :fire: `:fire:` | When you removed something.
 :truck: `:truck:` | When you moved / renamed something.
 
+## :memo: To do list
+- [x] Add contributor list
+- [  ] Add wallpapers authors list
 
 ## :revolving_hearts: Countributors
 Thanks goes to these wonderful people:
