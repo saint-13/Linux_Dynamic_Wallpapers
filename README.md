@@ -134,6 +134,7 @@ Emoji | Description
 ## :memo: To do list
 - [x] Add contributor list
 - [ ] Add wallpapers authors list
+- [ ] Add more detailed instructions about how to contribute
 
 ## :revolving_hearts: Countributors
 Thanks goes to these wonderful people:
