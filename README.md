@@ -133,7 +133,7 @@ Emoji | Description
 
 ## :memo: To do list
 - [x] Add contributor list
-- [  ] Add wallpapers authors list
+- [ ] Add wallpapers authors list
 
 ## :revolving_hearts: Countributors
 Thanks goes to these wonderful people:
