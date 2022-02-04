@@ -1,4 +1,4 @@
-# Dynamic Wallpapers for Linux
+# Linux Dynamic Wallpapers
 ## 🎨 Preview
 ### Apple Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
