@@ -143,7 +143,7 @@ Thanks goes to these wonderful people:
 - [ComradeCat24](https://github.com/ComradeCat24)
 - [Mohammedziad599](https://github.com/Mohammedziad599)
 
-## External links:
+## 🔗 External links:
 - <a href="https://www.gnome-look.org/p/1499429/">
 	Linux Dynamic Wallpapers on Gnome-look.org</a> 
 	 
