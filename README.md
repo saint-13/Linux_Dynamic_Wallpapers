@@ -62,8 +62,8 @@
 ### Ubuntu Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Ubuntu Minimal	   	              													        | Groovy Gorilla		     														     | 												 		             | 															     			 |
-| <img src="Screenshots/UbuntuMinimal.gif" width="128" height="80">               		        | <img src="Screenshots/GroovyGorilla.gif" width="128" height="80">		     	     |                                      		     | 															     			 |
+| Ubuntu Minimal	   	              													        | Groovy Gorilla		     														     | Hirsuit Hippo												 		             | 															     			 |
+| <img src="Screenshots/UbuntuMinimal.gif" width="128" height="80">               		        | <img src="Screenshots/GroovyGorilla.gif" width="128" height="80">		     	     | <img src="Screenshots/HirsuitHippo.gif" width="128" height="80">                                 		     | 															     			 |
 
 <!--
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
