@@ -117,7 +117,7 @@
 
 4. That's it. Enjoy! :tada:
 
-## Wallpapers Authors:
+## :paintbrush: Wallpapers Authors:
 - Apple Inc.
 - Ubuntu
 - Zorin Os
