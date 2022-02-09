@@ -147,6 +147,8 @@ Emoji | Description
 - [x] Add contributor list
 - [ ] Add wallpapers authors list
 - [ ] Add more detailed instructions about how to contribute
+- [ ] Make a script for creating a dynamic wallpaper given just two wallpapers and a name for it
+
 
 ## :revolving_hearts: Countributors
 Thanks goes to these wonderful people:
