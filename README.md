@@ -117,6 +117,11 @@
 
 4. That's it. Enjoy! :tada:
 
+## Wallpapers Authors:
+- Apple Inc.
+- Ubuntu
+- Zorin Os
+
 ## :octocat: I want to contribute!
 
 That's great!
