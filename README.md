@@ -121,6 +121,7 @@
 - Apple Inc.
 - Ubuntu
 - Zorin Os
+- Updating...
 
 ## :octocat: I want to contribute!
 
