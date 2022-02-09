@@ -121,6 +121,7 @@
 - Apple Inc.
 - Ubuntu
 - Zorin Os
+- lofigirl.com
 - Updating...
 
 ## :octocat: I want to contribute!
