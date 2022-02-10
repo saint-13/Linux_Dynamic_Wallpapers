@@ -10,13 +10,16 @@ daywallpaperextension="${daywallpapername##*.}"
 nightwallpapername=$(basename -- "$nightwallpaper")
 nightwallpaperextension="${nightwallpapername##*.}"
 
-mv -- "$daywallpaper" "${dwallpapername}-1.${daywallpaperextension}"
+mv -v "$daywallpaper" "${dwallpapername}-1.${daywallpaperextension}"
 
-mv -- "$nightwallpaper" "${dwallpapername}-2.${nightwallpaperextension}"
+mv -v "$nightwallpaper" "${dwallpapername}-2.${nightwallpaperextension}"
 
 mkdir Dynamic_Wallpapers/$dwallpapername
+echo "Created $dwallpapername folder"
+chmod u+rwx Dynamic_Wallpapers/$dwallpapername
 
 mv -t Dynamic_Wallpapers/$dwallpapername "${dwallpapername}-1.${daywallpaperextension}" "${dwallpapername}-2.${nightwallpaperextension}"
+echo "Moved wallpapers in $dwallpapername folder"
 cd Dynamic_Wallpapers
 echo "<background>
 	<starttime>
@@ -33,7 +36,7 @@ echo "<background>
 		<duration>42300.0</duration>
 	</static>
 
-	<transition type="overlay">
+	<transition type=\"overlay\">
 		<duration>900.0</duration>
 		<from>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername/"${dwallpapername}-1.${daywallpaperextension}"</from>
 		<to>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername/"${dwallpapername}-2.${nightwallpaperextension}"</to>
@@ -44,19 +47,19 @@ echo "<background>
 		<duration>42300.0</duration>
 	</static>
 
-	<transition type="overlay">
+	<transition type=\"overlay\">
 		<duration>900.0</duration>
     <from>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername/"${dwallpapername}-2.${nightwallpaperextension}"</from>
 		<to>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername/"${dwallpapername}-1.${daywallpaperextension}"</to>
 	</transition>
     </background>" > $dwallpapername.xml
-
+chmod	u+rwx $dwallpapername.xml
 cd ..
 cd xml
-echo "<?xml version="1.0"?>
-<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+echo "<?xml version=\"1.0\"?>
+<!DOCTYPE wallpapers SYSTEM \"gnome-wp-list.dtd\">
 <wallpapers>
-  <wallpaper deleted="false">
+  <wallpaper deleted=\"false\">
     <name>$dwallpapername</name>
     <filename>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername.xml</filename>
     <options>zoom</options>
@@ -65,3 +68,6 @@ echo "<?xml version="1.0"?>
     <scolor>#000000</scolor>
   </wallpaper>
 </wallpapers>" > $dwallpapername.xml
+chmod	u+rwx $dwallpapername.xml
+echo "Created xml files"
+echo "Done!"
