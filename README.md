@@ -21,8 +21,8 @@
 ### Anime Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Dynamic Fry	   	              													        | Anime Room With Board		     														     | 																     | 													 		 |
-| <img src="Screenshots/DynamicFry.gif" width="128" height="80"> | <img src="Screenshots/AnimeRoomBoard.gif" width="128" height="80">				     |                                	     |                                      	 |
+| Dynamic Fry	   	              													        | Anime Room With Board		     														     | Himitsu House  																     | Catherine Room  													 		 |
+| <img src="Screenshots/DynamicFry.gif" width="128" height="80"> | <img src="Screenshots/AnimeRoomBoard.gif" width="128" height="80">				     | <img src="Screenshots/HimitsuHouse.gif" width="128" height="80">  | <img src="Screenshots/CatherineRoom.gif" width="128" height="80"> |
 
 ### Lake & Sea & River
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -73,7 +73,7 @@
 -->
 
 ## :gear: Installation:
-	
+
 #### Method 1: Easy but time & data consuming :hourglass_flowing_sand:
 
 1. Download Easy_Install.sh file
@@ -85,7 +85,7 @@
 	```
 	sudo bash ./Easy_Install.sh
 	```
-	
+
 4. Change your wallpaper from: Settings > Backgrounds
 
 5. That's it. Enjoy! :tada:
@@ -95,20 +95,20 @@
 1. Download package:
 
     - if you already cloned repository, just pull to fetch recent changes:
-        
+
         ```
         cd ~/Linux_Dynamic_Wallpapers
         git pull
         ```
-        
+
     - if not, clone git repository:
-    
+
       ```
       cd ~
       git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
       cd Linux_Dynamic_Wallpapers
       ```
- 	       
+
 2. Run the command:
 
     	sudo bash ./install.sh
@@ -122,6 +122,7 @@
 - Ubuntu
 - Zorin Os
 - lofigirl.com
+- Arseniy Chebynkin
 - Updating...
 
 ## :octocat: I want to contribute!
@@ -166,12 +167,10 @@ Thanks goes to these wonderful people:
 
 ## 🔗 External links:
 - <a href="https://www.gnome-look.org/p/1499429/">
-	Linux Dynamic Wallpapers on Gnome-look.org</a> 
-	 
+	Linux Dynamic Wallpapers on Gnome-look.org</a>
+
 <!--| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 |[saint-13](https://github.com/saint-13)										       	| [amro_solaiman](https://github.com/amrosolaiman)						     | [ComradeCat24](https://github.com/ComradeCat24)		 	  			     | [Mohammedziad599](https://github.com/Mohammedziad599)		         |
 | <img src="https://avatars.githubusercontent.com/u/68790180?v=4" width="128" height="80"> | <img src="https://avatars.githubusercontent.com/u/81815707?v=4" width="128" height="80">			     															     | <img src="https://avatars.githubusercontent.com/u/72916962?v=4" width="128" height="80"> | <img src="https://avatars.githubusercontent.com/u/32648922?v=4" width="128" height="80"> |																	         |
 -->
-
-
