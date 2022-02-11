@@ -23,6 +23,13 @@
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Dynamic Fry	   	              													        | Anime Room With Board		     														     | Himitsu House  																     | Catherine Room  													 		 |
 | <img src="Screenshots/DynamicFry.gif" width="128" height="80"> | <img src="Screenshots/AnimeRoomBoard.gif" width="128" height="80">				     | <img src="Screenshots/HimitsuHouse.gif" width="128" height="80">  | <img src="Screenshots/CatherineRoom.gif" width="128" height="80"> |
+| Kagome Room	   	              															        | 		     																     | 												 					     	             | 															     			 |
+| <img src="Screenshots/KagomeRoom.gif" width="128" height="80">	 | 		     																     | 												 					     	             | 															     			 |
+
+
+
+
+
 
 ### Lake & Sea & River
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -123,6 +130,7 @@
 - Zorin Os
 - lofigirl.com
 - Arseniy Chebynkin
+- Evgeniy Slushev
 - Updating...
 
 ## :octocat: I want to contribute!
