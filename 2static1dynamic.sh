@@ -1,14 +1,20 @@
 #!/bin/bash
+#this script generates a dynamic wallpaper given two static wallpapers.
+#it works according to the directories of Linux_Dynamic_Wallpapers project.
+#it generates a compressed gif and the xml files for Gnome.
+#it commits the changes to the local git.
+
 read -p "Insert the path of the day wallpaper: " daywallpaper
 read -p "Insert the path of the night wallpaper: " nightwallpaper
 read -p "What name would like to attribute to the dynamic wallpaper? " dwallpapername
 echo "generating the gif file..."
 convert $daywallpaper $nightwallpaper -morph 10 -set delay 6 \( -clone 0 -set delay 100 \) -swap 0 +delete \( +clone   -set delay 100 \) +swap   +delete -loop 0 -duplicate 1,-2-1 $dwallpapername.gif
 echo "gif file generated"
-echo "compressing gif file.."
+echo "compressing the gif file.."
 mogrify -resize 20% $dwallpapername.gif
 echo "gif file compressed"
 mv $dwallpapername.gif Screenshots
+#by the following 4 lines of code I'll get the extension of the wallpapers
 daywallpapername=$(basename -- "$daywallpaper")
 daywallpaperextension="${daywallpapername##*.}"
 nightwallpapername=$(basename -- "$nightwallpaper")
