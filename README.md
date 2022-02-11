@@ -23,8 +23,8 @@
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Dynamic Fry	   	              													        | Anime Room With Board		     														     | Himitsu House  																     | Catherine Room  													 		 |
 | <img src="Screenshots/DynamicFry.gif" width="128" height="80"> | <img src="Screenshots/AnimeRoomBoard.gif" width="128" height="80">				     | <img src="Screenshots/HimitsuHouse.gif" width="128" height="80">  | <img src="Screenshots/CatherineRoom.gif" width="128" height="80"> |
-| Kagome Room	   	              															        | 		     																     | 												 					     	             | 															     			 |
-| <img src="Screenshots/KagomeRoom.gif" width="128" height="80">	 | 		     																     | 												 					     	             | 															     			 |
+| Kagome Room	   	              											 |Corporation Hall 	 | 												 					     	             | 															     			 |
+| <img src="Screenshots/KagomeRoom.gif" width="128" height="80">	 | <img src="Screenshots/CorporationHall.gif" width="128" height="80"> 		     					 | 												 					     	             | 															     			 |
 
 
 
@@ -71,6 +71,8 @@
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Ubuntu Minimal	   	              													        | Groovy Gorilla		     														     | Hirsuit Hippo												 		             | Focal Fossa															     			 |
 | <img src="Screenshots/UbuntuMinimal.gif" width="128" height="80">               		        | <img src="Screenshots/GroovyGorilla.gif" width="128" height="80">		     	     | <img src="Screenshots/HirsuitHippo.gif" width="128" height="80">                                 		     | <img src="Screenshots/FocalFossa.gif" width="128" height="80">			 |
+| Hiresute Hippo Blue        			     | 		     																     | 												 					     	             | 															     			 |
+| <img src="Screenshots/HirsuteHippoBlue.gif" width="128" height="80"> 	   	              															        | 		     																     | 												 					     	             | 															     			 |
 
 <!--
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |

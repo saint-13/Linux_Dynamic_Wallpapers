@@ -1,23 +1,23 @@
 #!/bin/bash
-
 read -p "Insert the path of the day wallpaper: " daywallpaper
 read -p "Insert the path of the night wallpaper: " nightwallpaper
 read -p "What name would like to attribute to the dynamic wallpaper? " dwallpapername
-
+echo "generating the gif file..."
+convert $daywallpaper $nightwallpaper -morph 10 -set delay 6 \( -clone 0 -set delay 100 \) -swap 0 +delete \( +clone   -set delay 100 \) +swap   +delete -loop 0 -duplicate 1,-2-1 $dwallpapername.gif
+echo "gif file generated"
+echo "compressing gif file.."
+mogrify -resize 20% $dwallpapername.gif
+echo "gif file compressed"
+mv $dwallpapername.gif Screenshots
 daywallpapername=$(basename -- "$daywallpaper")
 daywallpaperextension="${daywallpapername##*.}"
-
 nightwallpapername=$(basename -- "$nightwallpaper")
 nightwallpaperextension="${nightwallpapername##*.}"
-
-mv -v "$daywallpaper" "${dwallpapername}-1.${daywallpaperextension}"
-
-mv -v "$nightwallpaper" "${dwallpapername}-2.${nightwallpaperextension}"
-
+mv -- "$daywallpaper" "${dwallpapername}-1.${daywallpaperextension}"
+mv -- "$nightwallpaper" "${dwallpapername}-2.${nightwallpaperextension}"
 mkdir Dynamic_Wallpapers/$dwallpapername
 echo "Created $dwallpapername folder"
 chmod u+rwx Dynamic_Wallpapers/$dwallpapername
-
 mv -t Dynamic_Wallpapers/$dwallpapername "${dwallpapername}-1.${daywallpaperextension}" "${dwallpapername}-2.${nightwallpaperextension}"
 echo "Moved wallpapers in $dwallpapername folder"
 cd Dynamic_Wallpapers
@@ -70,4 +70,7 @@ echo "<?xml version=\"1.0\"?>
 </wallpapers>" > $dwallpapername.xml
 chmod	u+rwx $dwallpapername.xml
 echo "Created xml files"
+cd ..
+git add xml/$dwallpapername.xml Screenshots/$dwallpapername.gif Dynamic_Wallpapers/$dwallpapername.xml Dynamic_Wallpapers/$dwallpapername/*
+git commit -m ":art: Add $dwallpapername dynamic wallpaper"
 echo "Done!"
