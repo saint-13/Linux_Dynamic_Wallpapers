@@ -1,9 +1,0 @@
-- name: Rank on Gnome Look Website
-  uses: amrosolaiman/RankGnome-Look.org
-  with:
-    auth: ${{ secrets.GIST_SECRET }}
-    gistID: <gist-ID>
-    filename: GnomeRank.json
-    label: Rank on Gnome-look.org
-    message: First
-    color: #FFC300
