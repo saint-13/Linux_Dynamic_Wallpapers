@@ -1,3 +1,7 @@
+<p align="center">
+	<img src=https://img.shields.io/badge/Rank%20on%20Gnome--look.org-First-%23FFD700%20?logo=gnome&logoColor=lightgrey&labelColor=303030 />
+</p>
+
 # Linux Dynamic Wallpapers
 ## 🎨 Preview
 ### Apple Dynamic Wallpapers
