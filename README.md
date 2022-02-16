@@ -183,7 +183,7 @@ Thanks goes to these wonderful people:
 - [bodyash](https://github.com/Bodyash)
 
 ## :radioactive: Notice:
-- If you don't want your device to be the source of humanity extinction, please not use the 2static1dynamic.sh script without reading what does it contain. Please.
+- If you don't want your device to be the source of humanity extinction, please do not use the 2static1dynamic.sh script without reading what does it contain. Please.
 
 ## 🔗 External links:
 - <a href="https://www.gnome-look.org/p/1499429/">
