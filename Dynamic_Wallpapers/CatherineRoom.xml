@@ -1,0 +1,32 @@
+<background>
+	<starttime>
+		<year>2018</year>
+		<month>1</month>
+		<day>1</day>
+		<hour>6</hour>
+		<minute>0</minute>
+		<second>0</second>
+	</starttime>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/CatherineRoom/CatherineRoom-1.jpg</file>
+		<duration>42300.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>900.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/CatherineRoom/CatherineRoom-1.jpg</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/CatherineRoom/CatherineRoom-2.jpg</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/CatherineRoom/CatherineRoom-2.jpg</file>
+		<duration>42300.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>900.0</duration>
+    <from>/usr/share/backgrounds/Dynamic_Wallpapers/CatherineRoom/CatherineRoom-2.jpg</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/CatherineRoom/CatherineRoom-1.jpg</to>
+	</transition>
+    </background>

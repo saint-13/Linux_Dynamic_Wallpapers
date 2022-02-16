@@ -1,21 +1,93 @@
-# Linux Dynamic Wallpapers
+<h1 align="center">Linux Dynamic Wallpapers</h1>
 
 <p align="center">
-	<a href="https://www.gnome-look.org/p/1499429/">
-	<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Logo.png" width="128"> 
-	 </a>
+	<a href="https://www.gnome-look.org/p/1499429"><img src=https://img.shields.io/badge/Rank%20on%20Gnome--look.org-First-%23FFD700%20?logo=gnome&logoColor=lightgrey&labelColor=303030 /></a>
 </p>
-<p align="center" >
-	<a href="https://www.gnome-look.org/p/1499429/">
-	<b>Dynamic wallpapers like MacOS for Linux
-	 </b>
-	 </a>
- </p>
 
--   Tested on Manjaro Gnome 20.2.1
+## 🎨 Preview
+### Apple Dynamic Wallpapers
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Desert Valley             													        | Desert Tree     															     | Desert Peak										      				      		     | Dome		     											 		         |
+| <img src="Screenshots/DesertValley.gif" width="128" height="80"> | <img src="Screenshots/DesertTree.gif" width="128" height="80"> |  <img src="Screenshots/DesertPeak.gif" width="128" height="80">  | <img src="Screenshots/Dome.gif" width="128" height="80">  |
+| The Lake    	              										        			| The Desert						     										     | Lake the Cliff							    				           			      | The Beach										   			          |
+| <img src="Screenshots/TheLake.gif" width="128" height="80">  	| <img src="Screenshots/TheDesert.gif" width="128" height="80">  | <img src="Screenshots/LakeTheCliff.gif" width="128" height="80">  | <img src="Screenshots/TheBeach.gif" width="128" height="80"> |
+| Big Sur 2			   	              											        | Monterey    											         			    | Mojave															        		| Mojave V2													     |
+| <img src="Screenshots/BigSurV2.gif" width="128" height="80"> 	| <img src="Screenshots/Monterey.gif" width="128" height="80"> | <img src="Screenshots/Mojave.gif" width="128" height="80"> | <img src="Screenshots/MojaveV2.gif" width="128" height="80"> |
+| Minimal Mojave 															| Big Sur	 															        | Catalina													   			     |																		|
+| <img src="Screenshots/Minimal-Mojave.gif" width="128" height="80"> | <img src="Screenshots/BigSur.gif" width="128" height="80">	        | <img src="Screenshots/Catalina.gif" width="128" height="80">     | 			  		     												     |
+
+### Lofi Dynamic Wallpapers
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Lofi Dino	   	              													        | Lofi Girl		     														     | Lofi Alex 																     | 													 		 |
+| <img src="Screenshots/LofiDino.gif" width="128" height="80"> 		| <img src="Screenshots/LofiGirl.gif" width="128" height="80">				     | <img src="Screenshots/LofiAlex.gif" width="128" height="80">	     |                       		 |
+
+### Anime Dynamic Wallpapers
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Dynamic Fry	   	              													        | Anime Room With Board		     														     | Himitsu House  																     | Catherine Room  													 		 |
+| <img src="Screenshots/DynamicFry.gif" width="128" height="80"> | <img src="Screenshots/AnimeRoomBoard.gif" width="128" height="80">				     | <img src="Screenshots/HimitsuHouse.gif" width="128" height="80">  | <img src="Screenshots/CatherineRoom.gif" width="128" height="80"> |
+| Kagome Room	   	              											 |Corporation Hall 	 | 												 					     	             | 															     			 |
+| <img src="Screenshots/KagomeRoom.gif" width="128" height="80">	 | <img src="Screenshots/CorporationHall.gif" width="128" height="80"> 		     					 | 												 					     	             | 															     			 |
+
+
+
+
+
+
+### Lake & Sea & River
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Windows 11 Lake 														        | Coast	     																     | Sunset										 					     	             | Magic Lake												     			 |
+| <img src="Screenshots/Win11Lake.gif" width="128" height="80">      | <img src="Screenshots/Coast.gif" width="128" height="80">	     | <img src="Screenshots/EOS-Sunset.gif" width="128" height="80">    | <img src="Screenshots/MagicLake.gif" width="128" height="80"> 		 |
+| White Lighthouse 	              													| 		     																     | 												 					     	             | 															     			 |
+| <img src="Screenshots/WhiteLighthouse.gif" width="128" height="80">	   	        | 		     																     | 												 					     	             | 															     			 |
+
+
+### Desert
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Desert	   	              														        | Surface		     														     | Surface Breeze												 		             | Desert 													     			 |
+| <img src="Screenshots/Desert.gif" width="128" height="80"> 		| <img src="Screenshots/Surface.gif" width="128" height="80">	     | <img src="Screenshots/SurfaceBreeze.gif" width="128" height="80">			     | <img src="Screenshots/DesertSands.gif" width="128" height="80"> 		|
+
+### Cities
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Cyberpunk        															        | Viktor Forgacs			     												     | 												 					     	             | 															     			 |
+| <img src="Screenshots/cyberpunk-01.gif" width="128" height="80"> | <img src="Screenshots/EOS-ViktorForgacs.gif" width="128" height="80"> 	     | 												 					     	             | 															     			 |
+
+### Mountains
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Snow Capped Mountain													        | We Yamle		     														     | Fede Marin Mountain 											     	             | Padar Island															 |
+| <img src="Screenshots/EOS-SnowCappedMountain.gif" width="128" height="80"> | <img src="Screenshots/EOS-WeYamle.gif" width="128" height="80">| <img src="Screenshots/FedeMarinMountain.gif" width="128" height="80"> 	     | <img src="Screenshots/PadarIsland.gif" width="128" height="80">   		 |
+| Rocky Mountain  														        | Zorin Mountain 		     												     | Zorin Mountain fog 												 	             | 															     			 |
+| <img src="Screenshots/RockyMountain.gif" width="128" height="80">  	   	        | <img src="Screenshots/ZorinMountain.gif" width="128" height="80"> 		     | <img src="Screenshots/ZorinMountainFog.gif" width="128" height="80"> 		     | 															     			 |
+
+### Abstract
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Material	   	              													        | Zorin Blur		     														     | 												 		             | 															     			 |
+| <img src="Screenshots/Material.gif" width="128" height="80">               		        | <img src="Screenshots/ZorinBlur.gif" width="128" height="80">		     	     | 		     | 															     			 |
+
+### Ubuntu Wallpapers
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Ubuntu Minimal	   	              													        | Groovy Gorilla		     														     | Hirsuit Hippo												 		             | Focal Fossa															     			 |
+| <img src="Screenshots/UbuntuMinimal.gif" width="128" height="80">               		        | <img src="Screenshots/GroovyGorilla.gif" width="128" height="80">		     	     | <img src="Screenshots/HirsuitHippo.gif" width="128" height="80">                                 		     | <img src="Screenshots/FocalFossa.gif" width="128" height="80">			 |
+| Hiresute Hippo Blue        			     | 		     																     | 												 					     	             | 															     			 |
+| <img src="Screenshots/HirsuteHippoBlue.gif" width="128" height="80"> 	   	              															        | 		     																     | 												 					     	             | 															     			 |
+
+<!--
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| 	   	              															        | 		     																     | 												 					     	             | 															     			 |
+| 	   	              															        | 		     																     | 												 					     	             | 															     			 |
+-->
 
 ## :gear: Installation:
-	
+
 #### Method 1: Easy but time & data consuming :hourglass_flowing_sand:
 
 1. Download Easy_Install.sh file
@@ -27,30 +99,30 @@
 	```
 	sudo bash ./Easy_Install.sh
 	```
-	
+
 4. Change your wallpaper from: Settings > Backgrounds
 
 5. That's it. Enjoy! :tada:
 
-#### Method 2: for *almost* experts but saves time and data :nerd_face:
+#### Method 2: for *experts* but saves time and data :nerd_face:
 
 1. Download package:
 
     - if you already cloned repository, just pull to fetch recent changes:
-        
+
         ```
         cd ~/Linux_Dynamic_Wallpapers
         git pull
         ```
-        
+
     - if not, clone git repository:
-    
+
       ```
       cd ~
       git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
       cd Linux_Dynamic_Wallpapers
       ```
- 	       
+
 2. Run the command:
 
     	sudo bash ./install.sh
@@ -59,205 +131,63 @@
 
 4. That's it. Enjoy! :tada:
 
-## :art: Screenshots:
+## :paintbrush: Wallpapers Authors:
+- Apple Inc.
+- Ubuntu
+- Zorin Os
+- lofigirl.com
+- Arseniy Chebynkin
+- Evgeniy Slushev
+- Updating...
 
-<table>
-  <tr>
-    <th>Surface</th>
-    <th>SurfaceBreeze</th>
-    <th>BigSur</th>
-    <th>BigSurV2</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Surface.gif" width="128">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/SurfaceBreeze.gif" width="128">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/BigSur.gif" width="128">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/BigSurV2.gif" width="128">
-    </td>
-  </tr>
-  <tr>
-    <th>Mojave</th>
-    <th>MojaveV2</th>
-    <th>Minimal Mojave</th>
-    <th>ZorinMountain</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Mojave.gif" width="128">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/MojaveV2.gif" width="128">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Minimal-Mojave.gif" width="128">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/ZorinMountain.gif" width="128">
-    </td>
-  </tr>
-  <tr>
-    <th>ZorinBlur</th>
-    <th>Coast</th>
-    <th>Desert</th>
-    <th>Material</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/ZorinBlur.gif" width="128">
-    </td>
-    <td>
-       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Coast.gif" width="128">
-    </td>
-    <td>
-       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Desert.gif" width="128">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Material.gif" width="128">
-    </td>
-  </tr>
-  <tr>
-    <th>WhiteLighthouse</th>
-    <th>WeYamle</th>
-    <th>SnowMountain</th>
-    <th>Sunset</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/WhiteLighthouse.gif" width="128">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-WeYamle.gif" width="128">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-SnowCappedMountain.gif" width="128">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-Sunset.gif" width="128">
-    </td>
-  </tr>
-  <tr>
-    <th>MagicLake</th>
-    <th>UbuntuMinimal</th>
-    <th>Cyberpunk 01</th>
-    <th>DesertSands</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/MagicLake.gif" width="128">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/UbuntuMinimal.gif" width="128">
-    </td>
-   <td>
-      <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/cyberpunk-01.gif" width="128">
-    </td>
-    <td>
-    	<img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DesertSands.gif" width="128">
-    </td>
-  
-  </tr>
-  <tr>
-    <th>Monterey</th>
-    <th>DynamicFry</th>
-    <th>Dome</th>
-    <th>Catalina</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Monterey.gif" width="128">
-    </td>
-    <td>
-    	 <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DynamicFry.gif" width="128">
-    </td>
-    <td>
-   	<img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Dome.gif" width="128">
-    </td>
-    <td>
-    	<img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/Catalina.gif" width="128">
-    </td>
-   </tr>
-     <tr>
-    <th>ZorinMountainFog</th>
-    <th>RockyMountain</th>
-    <th>ViktorForgacs</th>
-    <th>Win11Lake</th>
-  </tr>
-  <tr>
-    <td>
-  	  <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/ZorinMountainFog.gif" width="128">
-    </td>
-    <td>
-  	  <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/RockyMountain.gif" width="128">
-    </td>
-    <td>
- 	   <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/EOS-ViktorForgacs.gif" width="128">
-    </td>
-    <td>
-    	   <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/Win11Lake.gif" width="128">
-    </td>
-   </tr>
-    <tr>
-    <th>FedeMarin Mountain</th>
-    <th>Padar Island</th>
-    <th>Lofi Girl</th>
-    <th>Desert Peak</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/FedeMarinMountain.gif" width="128">
-    </td>
-    <td> 
-      <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/PadarIsland.gif" width="128">
-     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/LofiGirl.gif" width="128">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DesertPeak.gif" width="128">
-    </td>
-   </tr>
-   <tr>
-    <th>Desert Tree</th>
-    <th>Desert Valley</th>
-    <th>Lake The Cliff</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td>
-    <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DesertTree.gif" width="128">
-    </td>
-    <td>
-     <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/DesertValley.gif" width="128">
-    </td>
-    <td>
-     <img src="https://raw.githubusercontent.com/amrosolaiman/Linux_Dynamic_Wallpapers/main/Screenshots/LakeTheCliff.gif" width="128">
-    </td>
-    <td>
-    </td>
-   </tr>
-   
-   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-   </tr>
+## :octocat: I want to contribute!
 
-</table>
+That's great!
+Here are some basic rules to get you started:
+Commits should start with a Capital letter and should be written in present tense (e.g. __:tada: Add cool new feature__ instead of __:tada: Added cool new feature__).
+You should also start your commit message with **one** applicable emoji.
+This does not only look great but also makes you rethink what to add to a commit. Make many but small commits!
+
+Emoji | Description
+------|------------
+:tada: `:tada:` | When you added a cool new feature.
+:wrench: `:wrench:` | When you added a piece of code.
+:recycle: `:recycle:` | When you refactored a part of the code.
+:sparkles: `:sparkles:` | When you applied clang-format.
+:globe_with_meridians: `:globe_with_meridians:` | When you worked on translations.
+:art: `:art:` | When you improved / added assets like themes.
+:lipstick: `:lipstick:` | When you worked on the UI of the preferences dialog.
+:rocket: `:rocket:` | When you improved performance.
+:memo: `:memo:` | When you wrote documentation.
+:beetle: `:beetle:` | When you fixed a bug.
+:revolving_hearts: `:revolving_hearts:` | When a new sponsor is added or credits are updated.
+:heavy_check_mark: `:heavy_check_mark:` | When you worked on checks or adjusted the code to be compliant with them.
+:twisted_rightwards_arrows: `:twisted_rightwards_arrows:` | When you merged a branch.
+:fire: `:fire:` | When you removed something.
+:truck: `:truck:` | When you moved / renamed something.
+
+## :memo: To do list
+- [x] Add contributor list
+- [x] Add wallpapers authors list
+- [ ] Add more detailed instructions about how to contribute
+- [x] Make a script for creating a dynamic wallpaper given just two wallpapers and a name for it
+
+
+## :revolving_hearts: Countributors
+Thanks goes to these wonderful people:
+- [saint-13](https://github.com/saint-13)
+- [amro_solaiman](https://github.com/amrosolaiman)
+- [ComradeCat24](https://github.com/ComradeCat24)
+- [Mohammedziad599](https://github.com/Mohammedziad599)
+- [bodyash](https://github.com/Bodyash)
+
+## 🔗 External links:
+- <a href="https://www.gnome-look.org/p/1499429/">
+	Linux Dynamic Wallpapers on Gnome-look.org</a>
+## :radioactive: Notice:
+- Do not use the 2static1dynamic.sh script without reading what does it contain
+<!--| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+|[saint-13](https://github.com/saint-13)										       	| [amro_solaiman](https://github.com/amrosolaiman)						     | [ComradeCat24](https://github.com/ComradeCat24)		 	  			     | [Mohammedziad599](https://github.com/Mohammedziad599)		         |
+| <img src="https://avatars.githubusercontent.com/u/68790180?v=4" width="128" height="80"> | <img src="https://avatars.githubusercontent.com/u/81815707?v=4" width="128" height="80">			     															     | <img src="https://avatars.githubusercontent.com/u/72916962?v=4" width="128" height="80"> | <img src="https://avatars.githubusercontent.com/u/32648922?v=4" width="128" height="80"> |																	         |
+-->
