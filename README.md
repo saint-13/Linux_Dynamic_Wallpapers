@@ -1,5 +1,5 @@
 <p align="center">
-	<img src=https://img.shields.io/badge/Rank%20on%20Gnome--look.org-First-%23FFD700%20?logo=gnome&logoColor=lightgrey&labelColor=303030 />
+	<a href="https://www.gnome-look.org/p/1499429"><img src=https://img.shields.io/badge/Rank%20on%20Gnome--look.org-First-%23FFD700%20?logo=gnome&logoColor=lightgrey&labelColor=303030 /></a>
 </p>
 
 # Linux Dynamic Wallpapers
