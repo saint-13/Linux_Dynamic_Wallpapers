@@ -133,6 +133,7 @@
 
 ## :paintbrush: Wallpapers Authors:
 - Apple Inc.
+- Elementary Os
 - Ubuntu
 - Zorin Os
 - lofigirl.com
