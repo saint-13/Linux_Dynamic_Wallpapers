@@ -133,6 +133,7 @@
 
 ## :paintbrush: Wallpapers Authors:
 - Apple Inc.
+- Elementary Os
 - Ubuntu
 - Zorin Os
 - lofigirl.com
@@ -181,11 +182,12 @@ Thanks goes to these wonderful people:
 - [Mohammedziad599](https://github.com/Mohammedziad599)
 - [bodyash](https://github.com/Bodyash)
 
+## :radioactive: Notice:
+- If you don't want your device to be the source of humanity extinction, please do not use the 2static1dynamic.sh script without reading what does it contain. Please.
+
 ## 🔗 External links:
 - <a href="https://www.gnome-look.org/p/1499429/">
 	Linux Dynamic Wallpapers on Gnome-look.org</a>
-## :radioactive: Notice:
-- Do not use the 2static1dynamic.sh script without reading what does it contain
 <!--| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 |[saint-13](https://github.com/saint-13)										       	| [amro_solaiman](https://github.com/amrosolaiman)						     | [ComradeCat24](https://github.com/ComradeCat24)		 	  			     | [Mohammedziad599](https://github.com/Mohammedziad599)		         |
