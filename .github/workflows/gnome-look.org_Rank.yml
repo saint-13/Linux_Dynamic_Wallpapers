@@ -1,4 +1,4 @@
-- name: Rank on gnome-look.org
+- name: Rank on gnome-look
   uses: amrosolaiman/RankGnome-Look.org
   with:
     auth: ${{ secrets.GIST_SECRET }}
