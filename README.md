@@ -14,8 +14,8 @@
 | <img src="Screenshots/TheLake.gif" width="128" height="80">  	| <img src="Screenshots/TheDesert.gif" width="128" height="80">  | <img src="Screenshots/LakeTheCliff.gif" width="128" height="80">  | <img src="Screenshots/TheBeach.gif" width="128" height="80"> |
 | Big Sur 2			   	              											        | Monterey    											         			    | Mojave															        		| Mojave V2													     |
 | <img src="Screenshots/BigSurV2.gif" width="128" height="80"> 	| <img src="Screenshots/Monterey.gif" width="128" height="80"> | <img src="Screenshots/Mojave.gif" width="128" height="80"> | <img src="Screenshots/MojaveV2.gif" width="128" height="80"> |
-| Minimal Mojave 															| Big Sur	 															        | Catalina													   			     |																		|
-| <img src="Screenshots/Minimal-Mojave.gif" width="128" height="80"> | <img src="Screenshots/BigSur.gif" width="128" height="80">	        | <img src="Screenshots/Catalina.gif" width="128" height="80">     | 			  		     												     |
+| Minimal Mojave 															| Big Sur	 															        | Catalina													   			     |Iphone 13 Red																		|
+| <img src="Screenshots/Minimal-Mojave.gif" width="128" height="80"> | <img src="Screenshots/BigSur.gif" width="128" height="80">	        | <img src="Screenshots/Catalina.gif" width="128" height="80">     | <img src="Screenshots/Iphone13Red.gif" width="128" height="80"> 			  		     												     |
 
 ### Lofi Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
