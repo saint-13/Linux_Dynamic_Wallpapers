@@ -23,7 +23,7 @@ mv -- "$daywallpaper" "${dwallpapername}-1.${daywallpaperextension}"
 mv -- "$nightwallpaper" "${dwallpapername}-2.${nightwallpaperextension}"
 mkdir Dynamic_Wallpapers/$dwallpapername
 echo "Created $dwallpapername folder"
-chmod u+rwx Dynamic_Wallpapers/$dwallpapername
+#chmod u+rwx Dynamic_Wallpapers/$dwallpapername
 mv -t Dynamic_Wallpapers/$dwallpapername "${dwallpapername}-1.${daywallpaperextension}" "${dwallpapername}-2.${nightwallpaperextension}"
 echo "Moved wallpapers in $dwallpapername folder"
 cd Dynamic_Wallpapers
@@ -59,7 +59,7 @@ echo "<background>
 		<to>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername/"${dwallpapername}-1.${daywallpaperextension}"</to>
 	</transition>
     </background>" > $dwallpapername.xml
-chmod	u+rwx $dwallpapername.xml
+#chmod	u+rwx $dwallpapername.xml
 cd ..
 cd xml
 echo "<?xml version=\"1.0\"?>
@@ -74,7 +74,7 @@ echo "<?xml version=\"1.0\"?>
     <scolor>#000000</scolor>
   </wallpaper>
 </wallpapers>" > $dwallpapername.xml
-chmod	u+rwx $dwallpapername.xml
+#chmod	u+rwx $dwallpapername.xml
 echo "Created xml files"
 cd ..
 git add xml/$dwallpapername.xml Screenshots/$dwallpapername.gif Dynamic_Wallpapers/$dwallpapername.xml Dynamic_Wallpapers/$dwallpapername/*
