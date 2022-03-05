@@ -30,8 +30,8 @@
 | <img src="Screenshots/DynamicFry.gif" width="128" height="80"> | <img src="Screenshots/AnimeRoomBoard.gif" width="128" height="80">				     | <img src="Screenshots/HimitsuHouse.gif" width="128" height="80">  | <img src="Screenshots/CatherineRoom.gif" width="128" height="80"> |
 | Kagome Room	   	              											 |Corporation Hall 	 | Tokyo Street  										 					     	             |Corporation Street															     			 |
 | <img src="Screenshots/KagomeRoom.gif" width="128" height="80">	 | <img src="Screenshots/CorporationHall.gif" width="128" height="80"> 		     					 | <img src="Screenshots/TokyoStreet.gif" width="128" height="80">        | <img src="Screenshots/CorporationStreet.gif" width="128" height="80"> 															     			 |
-| Riverside 	   	              											| 		     																     | 												 					     	             | 															     			 |
-| <img src="Screenshots/Riverside.gif" width="128" height="80"> 	   	              															        | 		     																     | 												 					     	             | 															     			 |
+| Riverside 	   	              											| External Himitsu House 		     																     | 												 					     	             | 															     			 |
+| <img src="Screenshots/Riverside.gif" width="128" height="80"> 	   	              															        | <img src="Screenshots/ExternalHimitsuHouse.gif" width="128" height="80"> 		     																     | 												 					     	             | 															     			 |
 
 
 
