@@ -70,8 +70,8 @@
 ### Abstract
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Material	   	              													        | Zorin Blur		     														     | 												 		             | 															     			 |
-| <img src="Screenshots/Material.gif" width="128" height="80">               		        | <img src="Screenshots/ZorinBlur.gif" width="128" height="80">		     	     | 		     | 															     			 |
+| Material	   	              													        | Zorin Blur		     														     | Aura 												 		             | 															     			 |
+| <img src="Screenshots/Material.gif" width="128" height="80">               		        | <img src="Screenshots/ZorinBlur.gif" width="128" height="80">		     	     | <img src="Screenshots/Aura.gif" width="128" height="80"> 		     | 															     			 |
 
 ### Ubuntu Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
