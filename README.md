@@ -32,8 +32,8 @@
 | <img src="Screenshots/KagomeRoom.gif" width="128" height="80">	 | <img src="Screenshots/CorporationHall.gif" width="128" height="80"> 		     					 | <img src="Screenshots/TokyoStreet.gif" width="128" height="80">        | <img src="Screenshots/CorporationStreet.gif" width="128" height="80"> 															     			 |
 | Riverside 	   	              											| External Himitsu House 		     																     | Plastic Beach  												 					     	             | Steven Universe 															     			 |
 | <img src="Screenshots/Riverside.gif" width="128" height="80"> 	   	              															        | <img src="Screenshots/ExternalHimitsuHouse.gif" width="128" height="80"> 		     																     | <img src="Screenshots/PlasticBeach.gif" width="128" height="80">												 					     	             | <img src="Screenshots/StevenUniverse.gif" width="128" height="80"> 															     			 |
-| Firewatch       															        | 		     																     | 												 					     	             | 															     			 |
-| <img src="Screenshots/Firewatch.gif" width="128" height="80">   | 		     																     | 												 					     	             | 															     			 |
+| Firewatch       															        | Firewatch 2		     																     | Lakeside Deer												 					     	             | Lakeside															     			 |
+| <img src="Screenshots/Firewatch.gif" width="128" height="80">   | <img src="Screenshots/Firewatch2.gif" width="128" height="80"> 		     																     | <img src="Screenshots/LakesideDeer.gif" width="128" height="80">												 					     	             | <img src="Screenshots/Lakeside.gif" width="128" height="80">															     			 |
 
 
 
@@ -143,6 +143,7 @@
 - lofigirl.com
 - Arseniy Chebynkin
 - Evgeniy Slushev
+- Louis Coyle
 - Updating...
 
 ## :octocat: I want to contribute!
