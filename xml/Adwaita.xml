@@ -2,7 +2,7 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>adwaita</name>
+    <name>Adwaita</name>
     <filename>/usr/share/backgrounds/Dynamic_Wallpapers/Adwaita.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
