@@ -145,11 +145,13 @@
 - Apple Inc.
 - Elementary Os
 - Ubuntu
+- Gnome
 - Zorin Os
 - lofigirl.com
 - Arseniy Chebynkin
 - Evgeniy Slushev
 - Louis Coyle
+- Microsoft
 - Updating...
 
 ## :octocat: I want to contribute!
