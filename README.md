@@ -14,8 +14,8 @@
 | <img src="Screenshots/TheLake.gif" width="128" height="80">  	| <img src="Screenshots/TheDesert.gif" width="128" height="80">  | <img src="Screenshots/LakeTheCliff.gif" width="128" height="80">  | <img src="Screenshots/TheBeach.gif" width="128" height="80"> |
 | Big Sur 2			   	              											        | Monterey    											         			    | Mojave															        		| Mojave V2													     |
 | <img src="Screenshots/BigSurV2.gif" width="128" height="80"> 	| <img src="Screenshots/Monterey.gif" width="128" height="80"> | <img src="Screenshots/Mojave.gif" width="128" height="80"> | <img src="Screenshots/MojaveV2.gif" width="128" height="80"> |
-| Minimal Mojave 															| Big Sur	 															        | Catalina													   			     |																		|
-| <img src="Screenshots/Minimal-Mojave.gif" width="128" height="80"> | <img src="Screenshots/BigSur.gif" width="128" height="80">	        | <img src="Screenshots/Catalina.gif" width="128" height="80">     | 			  		     												     |
+| Minimal Mojave 															| Big Sur	 															        | Catalina													   			     |Iphone 13 Red																		|
+| <img src="Screenshots/Minimal-Mojave.gif" width="128" height="80"> | <img src="Screenshots/BigSur.gif" width="128" height="80">	        | <img src="Screenshots/Catalina.gif" width="128" height="80">     | <img src="Screenshots/Iphone13Red.gif" width="128" height="80"> 			  		     												     |
 
 ### Lofi Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -23,13 +23,17 @@
 | Lofi Dino	   	              													        | Lofi Girl		     														     | Lofi Alex 																     | 													 		 |
 | <img src="Screenshots/LofiDino.gif" width="128" height="80"> 		| <img src="Screenshots/LofiGirl.gif" width="128" height="80">				     | <img src="Screenshots/LofiAlex.gif" width="128" height="80">	     |                       		 |
 
-### Anime Dynamic Wallpapers
+### Digital art
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Dynamic Fry	   	              													        | Anime Room With Board		     														     | Himitsu House  																     | Catherine Room  													 		 |
 | <img src="Screenshots/DynamicFry.gif" width="128" height="80"> | <img src="Screenshots/AnimeRoomBoard.gif" width="128" height="80">				     | <img src="Screenshots/HimitsuHouse.gif" width="128" height="80">  | <img src="Screenshots/CatherineRoom.gif" width="128" height="80"> |
-| Kagome Room	   	              											 |Corporation Hall 	 | Tokyo Street  										 					     	             | 															     			 |
-| <img src="Screenshots/KagomeRoom.gif" width="128" height="80">	 | <img src="Screenshots/CorporationHall.gif" width="128" height="80"> 		     					 | <img src="Screenshots/TokyoStreet.gif" width="128" height="80">        | 															     			 |
+| Kagome Room	   	              											 |Corporation Hall 	 | Tokyo Street  										 					     	             |Corporation Street															     			 |
+| <img src="Screenshots/KagomeRoom.gif" width="128" height="80">	 | <img src="Screenshots/CorporationHall.gif" width="128" height="80"> 		     					 | <img src="Screenshots/TokyoStreet.gif" width="128" height="80">        | <img src="Screenshots/CorporationStreet.gif" width="128" height="80"> 															     			 |
+| Riverside 	   	              											| External Himitsu House 		     																     | Plastic Beach  												 					     	             | Steven Universe 															     			 |
+| <img src="Screenshots/Riverside.gif" width="128" height="80"> 	   	              															        | <img src="Screenshots/ExternalHimitsuHouse.gif" width="128" height="80"> 		     																     | <img src="Screenshots/PlasticBeach.gif" width="128" height="80">												 					     	             | <img src="Screenshots/StevenUniverse.gif" width="128" height="80"> 															     			 |
+| Firewatch       															        | Firewatch 2		     																     | Lakeside Deer												 					     	             | Lakeside															     			 |
+| <img src="Screenshots/Firewatch.gif" width="128" height="80">   | <img src="Screenshots/Firewatch2.gif" width="128" height="80"> 		     																     | <img src="Screenshots/LakesideDeer.gif" width="128" height="80">												 					     	             | <img src="Screenshots/Lakeside.gif" width="128" height="80">															     			 |
 
 
 
@@ -68,8 +72,8 @@
 ### Abstract
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Material	   	              													        | Zorin Blur		     														     | 												 		             | 															     			 |
-| <img src="Screenshots/Material.gif" width="128" height="80">               		        | <img src="Screenshots/ZorinBlur.gif" width="128" height="80">		     	     | 		     | 															     			 |
+| Material	   	              													        | Zorin Blur		     														     | Aura 												 		             | 															     			 |
+| <img src="Screenshots/Material.gif" width="128" height="80">               		        | <img src="Screenshots/ZorinBlur.gif" width="128" height="80">		     	     | <img src="Screenshots/Aura.gif" width="128" height="80"> 		     | 															     			 |
 
 ### Ubuntu Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -139,6 +143,7 @@
 - lofigirl.com
 - Arseniy Chebynkin
 - Evgeniy Slushev
+- Louis Coyle
 - Updating...
 
 ## :octocat: I want to contribute!
