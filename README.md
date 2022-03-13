@@ -150,6 +150,7 @@
 - Arseniy Chebynkin
 - Evgeniy Slushev
 - Louis Coyle
+- Microsoft
 - Updating...
 
 ## :octocat: I want to contribute!
