@@ -45,8 +45,8 @@
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Windows 11 Lake 														        | Coast	     																     | Sunset										 					     	             | Magic Lake												     			 |
 | <img src="Screenshots/Win11Lake.gif" width="128" height="80">      | <img src="Screenshots/Coast.gif" width="128" height="80">	     | <img src="Screenshots/EOS-Sunset.gif" width="128" height="80">    | <img src="Screenshots/MagicLake.gif" width="128" height="80"> 		 |
-| White Lighthouse 	              													| 		     																     | 												 					     	             | 															     			 |
-| <img src="Screenshots/WhiteLighthouse.gif" width="128" height="80">	   	        | 		     																     | 												 					     	             | 															     			 |
+| White Lighthouse 	              													| Elementary OS Odin		     																     | 												 					     	             | 															     			 |
+| <img src="Screenshots/WhiteLighthouse.gif" width="128" height="80">	   	        | <img src="Screenshots/Elementary-OS-Odin.gif" width="128" height="80">		     																     | 												 					     	             | 															     			 |
 
 
 ### Desert

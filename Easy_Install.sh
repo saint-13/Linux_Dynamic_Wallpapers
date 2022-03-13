@@ -3,12 +3,19 @@ cd ~
 echo "Downloading needed files started"
 git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
 echo "Files downloaded"
-cd Linux_Dynamic_Wallpapers
+
 if [[ -d /usr/share/backgrounds/Dynamic_Wallpapers ]]
 then 
 	sudo rm -r /usr/share/backgrounds/Dynamic_Wallpapers
 	echo "Setting up"
-fi	
+fi
+
+if [[ -d /usr/share/gnome-background-properties ]]
+then 
+	sudo rm -r /usr/share/gnome-background-properties
+	sudo mkdir /usr/share/gnome-background-properties
+fi
+
 echo "Installing wallpapers..."
 sudo cp -r ./Dynamic_Wallpapers/ /usr/share/backgrounds/
 sudo cp ./xml/* /usr/share/gnome-background-properties/
