@@ -80,8 +80,8 @@
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Ubuntu Minimal	   	              													        | Groovy Gorilla		     														     | Hirsuit Hippo												 		             | Focal Fossa															     			 |
 | <img src="Screenshots/UbuntuMinimal.gif" width="128" height="80">               		        | <img src="Screenshots/GroovyGorilla.gif" width="128" height="80">		     	     | <img src="Screenshots/HirsuitHippo.gif" width="128" height="80">                                 		     | <img src="Screenshots/FocalFossa.gif" width="128" height="80">			 |
-| Hiresute Hippo Blue        			     | 		     																     | 												 					     	             | 															     			 |
-| <img src="Screenshots/HirsuteHippoBlue.gif" width="128" height="80"> 	   	              															        | 		     																     | 												 					     	             | 															     			 |
+| Hiresute Hippo Blue        			     | Adwaita		     																     | Fluent												 					     	             | 															     			 |
+| <img src="Screenshots/HirsuteHippoBlue.gif" width="128" height="80"> 	   	              															        | <img src="Screenshots/Adwaita.gif" width="128" height="80">		     																     | <img src="Screenshots/Fluent.gif" width="128" height="80">												 					     	             | 															     			 |
 
 <!--
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
