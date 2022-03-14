@@ -47,8 +47,8 @@
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Windows 11 Lake 														        | Coast	     																     | Sunset										 					     	             | Magic Lake												     			 |
 | <img src="Screenshots/Win11Lake.gif" width="128" height="80">      | <img src="Screenshots/Coast.gif" width="128" height="80">	     | <img src="Screenshots/EOS-Sunset.gif" width="128" height="80">    | <img src="Screenshots/MagicLake.gif" width="128" height="80"> 		 |
-| White Lighthouse 	              													| 		     																     | 												 					     	             | 															     			 |
-| <img src="Screenshots/WhiteLighthouse.gif" width="128" height="80">	   	        | 		     																     | 												 					     	             | 															     			 |
+| White Lighthouse 	              													| Elementary OS Odin		     																     | 												 					     	             | 															     			 |
+| <img src="Screenshots/WhiteLighthouse.gif" width="128" height="80">	   	        | <img src="Screenshots/Elementary-OS-Odin.gif" width="128" height="80">		     																     | 												 					     	             | 															     			 |
 
 
 ### Desert
@@ -82,8 +82,14 @@
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Ubuntu Minimal	   	              													        | Groovy Gorilla		     														     | Hirsuit Hippo												 		             | Focal Fossa															     			 |
 | <img src="Screenshots/UbuntuMinimal.gif" width="128" height="80">               		        | <img src="Screenshots/GroovyGorilla.gif" width="128" height="80">		     	     | <img src="Screenshots/HirsuitHippo.gif" width="128" height="80">                                 		     | <img src="Screenshots/FocalFossa.gif" width="128" height="80">			 |
-| Hiresute Hippo Blue        			     | 		     																     | 												 					     	             | 															     			 |
-| <img src="Screenshots/HirsuteHippoBlue.gif" width="128" height="80"> 	   	              															        | 		     																     | 												 					     	             | 															     			 |
+| Hiresute Hippo Blue        			     | Adwaita		     																     | Fluent												 					     	             | 															     			 |
+| <img src="Screenshots/HirsuteHippoBlue.gif" width="128" height="80"> 	   	              															        | <img src="Screenshots/Adwaita.gif" width="128" height="80">		     																     | <img src="Screenshots/Fluent.gif" width="128" height="80">												 					     	             | 															     			 |
+
+### Windows Wallpapers
+| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Windows 11 01	   	              													        | Windows 11 02		     														     | Windows 11 03												 		             | 															     			 |
+| <img src="Screenshots/Windows-11.gif" width="128" height="80">               		        | <img src="Screenshots/Windows-11-2.gif" width="128" height="80">		     	     | <img src="Screenshots/Windows-11-3.gif" width="128" height="80">                                 		     | 			 |
 
 ### Gnome 42
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -100,34 +106,28 @@
 
 ## :gear: Installation:
 
-#### Method 1: Easy but time & data consuming :hourglass_flowing_sand:
+#### RECOMMEND: Easy but time & data consuming :hourglass_flowing_sand:
 
-1. Download Easy_Install.sh file
-
-2. Open terminal in its directory
-
-3. Run the following command:
-
+1. Open Terminal
+2. Run the following command:
 	```
-	sudo bash ./Easy_Install.sh
+	curl -s "https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Easy_Install.sh" | sudo bash
 	```
-
 4. Change your wallpaper from: Settings > Backgrounds
-
 5. That's it. Enjoy! :tada:
 
 #### Method 2: for *experts* but saves time and data :nerd_face:
 
 1. Download package:
 
-    - if you already cloned repository, just pull to fetch recent changes:
+    - If you already cloned repository, just pull to fetch recent changes:
 
         ```
         cd ~/Linux_Dynamic_Wallpapers
         git pull
         ```
 
-    - if not, clone git repository:
+    - If not, clone git repository:
 
       ```
       cd ~
@@ -147,11 +147,13 @@
 - Apple Inc.
 - Elementary Os
 - Ubuntu
+- Gnome
 - Zorin Os
 - lofigirl.com
 - Arseniy Chebynkin
 - Evgeniy Slushev
 - Louis Coyle
+- Microsoft
 - Updating...
 
 ## :octocat: I want to contribute!
