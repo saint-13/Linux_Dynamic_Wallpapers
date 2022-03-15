@@ -94,8 +94,10 @@
 ### Gnome 42
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Drool	   	              															        | Disco 		     																     | 												 					     	             | 															     			 |
-| <img src="Screenshots/Drool.gif" width="128" height="80">	   	              															        | <img src="Screenshots/Disco.gif" width="128" height="80"> 		     																     | 												 					     	             | 															     			 |
+| Drool	   	              															        | Disco 		     																     | Symbolics												 					     	             | Blobs															     			 |
+| <img src="Screenshots/Drool.gif" width="128" height="80">	   	              															        | <img src="Screenshots/Disco.gif" width="128" height="80"> 		     																     | <img src="Screenshots/Symbolics.gif" width="128" height="80"> 												 					     	             | <img src="Screenshots/Blobs.gif" width="128" height="80"> 															     			 |
+| Truchet	   	              															        | 		     																     | 												 					     	             | 															     			 |
+| <img src="Screenshots/Truchet.gif" width="128" height="80">	   	              															        | 		     																     | 												 					     	             | 															     			 |
 
 <!--
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
