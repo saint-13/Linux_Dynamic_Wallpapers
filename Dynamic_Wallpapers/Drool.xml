@@ -1,0 +1,32 @@
+<background>
+	<starttime>
+		<year>2018</year>
+		<month>1</month>
+		<day>1</day>
+		<hour>6</hour>
+		<minute>0</minute>
+		<second>0</second>
+	</starttime>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/Drool/Drool-1.svg</file>
+		<duration>42300.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>900.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/Drool/Drool-1.svg</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/Drool/Drool-2.svg</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/Drool/Drool-2.svg</file>
+		<duration>42300.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>900.0</duration>
+    <from>/usr/share/backgrounds/Dynamic_Wallpapers/Drool/Drool-2.svg</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/Drool/Drool-1.svg</to>
+	</transition>
+    </background>
