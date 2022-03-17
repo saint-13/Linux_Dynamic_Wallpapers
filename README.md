@@ -198,6 +198,8 @@ Thanks goes to these wonderful people:
 - [ComradeCat24](https://github.com/ComradeCat24)
 - [Mohammedziad599](https://github.com/Mohammedziad599)
 - [bodyash](https://github.com/Bodyash)
+- [SoftwareRat](https://github.com/SoftwareRat)
+- [Gina Stoffel](https://github.com/gina-stoffel)
 
 ## :radioactive: Notice:
 - If you don't want your device to be the source of humanity extinction, please do not use the 2static1dynamic.sh script without reading what does it contain. Please.
