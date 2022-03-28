@@ -13,17 +13,17 @@
 | Viragegy	   	              															        | Rocksketto		     																     | Rock 												 					     	             | Rocknegy														     			 |
 | <img src="Screenshots/Viragegy.gif" width="128" height="80"> 	   	              															       | <img src="Screenshots/Rocksketto.gif" width="128" height="80"> 		     																     | <img src="Screenshots/Rock.gif" width="128" height="80"> 												 					     	     | <img src="Screenshots/Rocknegy.gif" width="128" height="80"> 															     			 |
 | Material	   	              													        | Zorin Blur		     														     | Aura 												 		             | FluidifiedST 															     			 |
-| <img src="Screenshots/Material.gif" width="128" height="80">               		        | <img src="Screenshots/ZorinBlur.gif" width="128" height="80">		     	     | <img src="Screenshots/Aura.gif" width="128" height="80"> 		     | <img src="Screenshots/FluidifiedST.gif width=128 height=80> 															     			 |
+| <img src="Screenshots/Material.gif" width="128" height="80">               		        | <img src="Screenshots/ZorinBlur.gif" width="128" height="80">		     	     | <img src="Screenshots/Aura.gif" width="128" height="80"> 		     | <img src="Screenshots/FluidifiedST.gif" width="128" height="80"> 															     			 |
 | LofiCity | Hills | ChromeOSEarth | Ocean |
-| <img src="Screenshots/LofiCity.gif width=128 height=80> | <img src="Screenshots/Hills.gif width=128 height=80> | <img src="Screenshots/ChromeOSEarth.gif width=128 height=80> | <img src="Screenshots/Ocean.gif width=128 height=80> |
+| <img src="Screenshots/LofiCity.gif" width="128" height="80"> | <img src="Screenshots/Hills.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSEarth.gif" width="128" height="80"> | <img src="Screenshots/Ocean.gif" width="128" height="80"> |
 | DeadTree | MountainsIsland | ChromeOSFire | Solitude |
-| <img src="Screenshots/DeadTree.gif width=128 height=80> | <img src="Screenshots/MountainsIsland.gif width=128 height=80> | <img src="Screenshots/ChromeOSFire.gif width=128 height=80> | <img src="Screenshots/Solitude.gif width=128 height=80> |
+| <img src="Screenshots/DeadTree.gif" width="128" height="80"> | <img src="Screenshots/MountainsIsland.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSFire.gif" width="128" height="80"> | <img src="Screenshots/Solitude.gif" width="128" height="80"> |
 | ChromeOSBlues | ChromeOSGreens | ChromeOSEarth | WaterHill |
-| <img src="Screenshots/ChromeOSBlues.gif width=128 height=80> | <img src="Screenshots/ChromeOSGreens.gif width=128 height=80> | <img src="Screenshots/ChromeOSEarth.gif width=128 height=80> | <img src="Screenshots/WaterHill.gif width=128 height=80> |
+| <img src="Screenshots/ChromeOSBlues.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSGreens.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSEarth.gif" width="128" height="80"> | <img src="Screenshots/WaterHill.gif" width="128" height="80"> |
 | ChromeOSWind | ChromeOSWater | SolidForest | ChromeOSYellows |
-| <img src="Screenshots/ChromeOSWind.gif width=128 height=80> | <img src="Screenshots/ChromeOSWater.gif width=128 height=80> | <img src="Screenshots/SolidForest.gif width=128 height=80> | <img src="Screenshots/ChromeOSYellows.gif width=128 height=80> |
+| <img src="Screenshots/ChromeOSWind.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSWater.gif" width="128" height="80"> | <img src="Screenshots/SolidForest.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSYellows.gif" width="128" height="80"> |
 | SolidMountain | Plateau | SolidDesert | SolidIsland |
-| <img src="Screenshots/SolidMountain.gif width=128 height=80> | <img src="Screenshots/Plateau.gif width=128 height=80> | <img src="Screenshots/SolidDesert.gif width=128 height=80> | <img src="Screenshots/SolidIsland.gif width=128 height=80> |
+| <img src="Screenshots/SolidMountain.gif" width="128" height="80"> | <img src="Screenshots/Plateau.gif" width="128" height="80"> | <img src="Screenshots/SolidDesert.gif" width="128" height="80"> | <img src="Screenshots/SolidIsland.gif" width="128" height="80"> |
 
 ### Apple Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
