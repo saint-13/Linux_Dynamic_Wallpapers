@@ -12,7 +12,18 @@
 | <img src="Screenshots/Globe.gif" width="128" height="80"> 	   	              															        |<img src="Screenshots/Wiravketto.gif" width="128" height="80"> 		     																     | <img src="Screenshots/Viragnegy.gif" width="128" height="80">												 					     	             | <img src="Screenshots/Viragharom.gif" width="128" height="80">															     			 |
 | Viragegy	   	              															        | Rocksketto		     																     | Rock 												 					     	             | Rocknegy														     			 |
 | <img src="Screenshots/Viragegy.gif" width="128" height="80"> 	   	              															       | <img src="Screenshots/Rocksketto.gif" width="128" height="80"> 		     																     | <img src="Screenshots/Rock.gif" width="128" height="80"> 												 					     	     | <img src="Screenshots/Rocknegy.gif" width="128" height="80"> 															     			 |
-
+| Material	   	              													        | Zorin Blur		     														     | Aura 												 		             | FluidifiedST 															     			 |
+| <img src="Screenshots/Material.gif" width="128" height="80">               		        | <img src="Screenshots/ZorinBlur.gif" width="128" height="80">		     	     | <img src="Screenshots/Aura.gif" width="128" height="80"> 		     | <img src="Screenshots/FluidifiedST.gif" width="128" height="80"> 															     			 |
+| LofiCity | Hills | ChromeOSEarth | Ocean |
+| <img src="Screenshots/LofiCity.gif" width="128" height="80"> | <img src="Screenshots/Hills.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSEarth.gif" width="128" height="80"> | <img src="Screenshots/Ocean.gif" width="128" height="80"> |
+| DeadTree | MountainsIsland | ChromeOSFire | Solitude |
+| <img src="Screenshots/DeadTree.gif" width="128" height="80"> | <img src="Screenshots/MountainsIsland.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSFire.gif" width="128" height="80"> | <img src="Screenshots/Solitude.gif" width="128" height="80"> |
+| ChromeOSBlues | ChromeOSGreens | ChromeOSEarth | WaterHill |
+| <img src="Screenshots/ChromeOSBlues.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSGreens.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSEarth.gif" width="128" height="80"> | <img src="Screenshots/WaterHill.gif" width="128" height="80"> |
+| ChromeOSWind | ChromeOSWater | SolidForest | ChromeOSYellows |
+| <img src="Screenshots/ChromeOSWind.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSWater.gif" width="128" height="80"> | <img src="Screenshots/SolidForest.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSYellows.gif" width="128" height="80"> |
+| SolidMountain | Plateau | SolidDesert | SolidIsland |
+| <img src="Screenshots/SolidMountain.gif" width="128" height="80"> | <img src="Screenshots/Plateau.gif" width="128" height="80"> | <img src="Screenshots/SolidDesert.gif" width="128" height="80"> | <img src="Screenshots/SolidIsland.gif" width="128" height="80"> |
 
 ### Apple Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -29,8 +40,8 @@
 ### Lofi Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Lofi Dino	   	              													        | Lofi Girl		     														     | Lofi Alex 																     | 													 		 |
-| <img src="Screenshots/LofiDino.gif" width="128" height="80"> 		| <img src="Screenshots/LofiGirl.gif" width="128" height="80">				     | <img src="Screenshots/LofiAlex.gif" width="128" height="80">	     |                       		 |
+| Lofi Dino	   	              													        | Lofi Girl		     														     | Lofi Alex 																     | LofiAlexandra													 		 |
+| <img src="Screenshots/LofiDino.gif" width="128" height="80"> 		| <img src="Screenshots/LofiGirl.gif" width="128" height="80">				     | <img src="Screenshots/LofiAlex.gif" width="128" height="80">	     | <img src="Screenshots/LofiAlexandra.gif" width="128" height="80"> |
 
 ### Digital art
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -43,13 +54,8 @@
 | <img src="Screenshots/Riverside.gif" width="128" height="80"> 	   	              															        | <img src="Screenshots/ExternalHimitsuHouse.gif" width="128" height="80"> 		     																     | <img src="Screenshots/PlasticBeach.gif" width="128" height="80">												 					     	             | <img src="Screenshots/StevenUniverse.gif" width="128" height="80"> 															     			 |
 | Firewatch       															        | Firewatch 2		     																     | Lakeside Deer												 					     	             | Lakeside															     			 |
 | <img src="Screenshots/Firewatch.gif" width="128" height="80">   | <img src="Screenshots/Firewatch2.gif" width="128" height="80"> 		     																     | <img src="Screenshots/LakesideDeer.gif" width="128" height="80">												 					     	             | <img src="Screenshots/Lakeside.gif" width="128" height="80">															     			 |
-| Fuji 	   	              															        | Carvan		     																     | Painting Studio												 					     	             | 															     			 |
-| <img src="Screenshots/Fuji.gif" width="128" height="80">         															        | <img src="Screenshots/Carvan.gif" width="128" height="80">		     																     | <img src="Screenshots/PaintingStudio.gif" width="128" height="80">												 					     	             | 															     			 |
-
-
-
-
-
+| Fuji 	   	              															        | Carvan		     																     | Painting Studio												 					     	             | Step By Step  															     			 |
+| <img src="Screenshots/Fuji.gif" width="128" height="80">         															        | <img src="Screenshots/Carvan.gif" width="128" height="80">		     																     | <img src="Screenshots/PaintingStudio.gif" width="128" height="80">												 					     	             | <img src="Screenshots/StepbyStep.gif" width="128" height="80">
 
 ### Lake & Sea & River
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -79,12 +85,6 @@
 | <img src="Screenshots/EOS-SnowCappedMountain.gif" width="128" height="80"> | <img src="Screenshots/EOS-WeYamle.gif" width="128" height="80">| <img src="Screenshots/FedeMarinMountain.gif" width="128" height="80"> 	     | <img src="Screenshots/PadarIsland.gif" width="128" height="80">   		 |
 | Rocky Mountain  														        | Zorin Mountain 		     												     | Zorin Mountain fog 												 	             | Material Mountains															     			 |
 | <img src="Screenshots/RockyMountain.gif" width="128" height="80">  	   	        | <img src="Screenshots/ZorinMountain.gif" width="128" height="80"> 		     | <img src="Screenshots/ZorinMountainFog.gif" width="128" height="80"> 		     |<img src="Screenshots/MaterialMountains.gif" width="128" height="80"> |
-
-### Abstract
-| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
-| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Material	   	              													        | Zorin Blur		     														     | Aura 												 		             | 															     			 |
-| <img src="Screenshots/Material.gif" width="128" height="80">               		        | <img src="Screenshots/ZorinBlur.gif" width="128" height="80">		     	     | <img src="Screenshots/Aura.gif" width="128" height="80"> 		     | 															     			 |
 
 ### Ubuntu Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -204,11 +204,13 @@ Emoji | Description
 Thanks goes to these wonderful people:
 - [saint-13](https://github.com/saint-13)
 - [amro_solaiman](https://github.com/amrosolaiman)
+- [Alexandru Balan](https://github.com/BalanAlexandru)
 - [ComradeCat24](https://github.com/ComradeCat24)
 - [Mohammedziad599](https://github.com/Mohammedziad599)
 - [bodyash](https://github.com/Bodyash)
 - [SoftwareRat](https://github.com/SoftwareRat)
 - [Gina Stoffel](https://github.com/gina-stoffel)
+
 
 ## :radioactive: Notice:
 - If you don't want your device to be the source of humanity extinction, please do not use the 2static1dynamic.sh script without reading what does it contain. Please.
@@ -216,8 +218,3 @@ Thanks goes to these wonderful people:
 ## 🔗 External links:
 - <a href="https://www.gnome-look.org/p/1499429/">
 	Linux Dynamic Wallpapers on Gnome-look.org</a>
-<!--| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
-| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-|[saint-13](https://github.com/saint-13)										       	| [amro_solaiman](https://github.com/amrosolaiman)						     | [ComradeCat24](https://github.com/ComradeCat24)		 	  			     | [Mohammedziad599](https://github.com/Mohammedziad599)		         |
-| <img src="https://avatars.githubusercontent.com/u/68790180?v=4" width="128" height="80"> | <img src="https://avatars.githubusercontent.com/u/81815707?v=4" width="128" height="80">			     															     | <img src="https://avatars.githubusercontent.com/u/72916962?v=4" width="128" height="80"> | <img src="https://avatars.githubusercontent.com/u/32648922?v=4" width="128" height="80"> |																	         |
--->
