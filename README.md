@@ -41,7 +41,7 @@
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Lofi Dino	   	              													        | Lofi Girl		     														     | Lofi Alex 																     | LofiAlexandra													 		 |
-| <img src="Screenshots/LofiDino.gif" width="128" height="80"> 		| <img src="Screenshots/LofiGirl.gif" width="128" height="80">				     | <img src="Screenshots/LofiAlex.gif" width="128" height="80">	     | <img src="Screenshots/LofiAlexandraLofiCity.gif" width="128" height="80"> |
+| <img src="Screenshots/LofiDino.gif" width="128" height="80"> 		| <img src="Screenshots/LofiGirl.gif" width="128" height="80">				     | <img src="Screenshots/LofiAlex.gif" width="128" height="80">	     | <img src="Screenshots/LofiAlexandra.gif" width="128" height="80"> |
 
 ### Digital art
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -54,8 +54,8 @@
 | <img src="Screenshots/Riverside.gif" width="128" height="80"> 	   	              															        | <img src="Screenshots/ExternalHimitsuHouse.gif" width="128" height="80"> 		     																     | <img src="Screenshots/PlasticBeach.gif" width="128" height="80">												 					     	             | <img src="Screenshots/StevenUniverse.gif" width="128" height="80"> 															     			 |
 | Firewatch       															        | Firewatch 2		     																     | Lakeside Deer												 					     	             | Lakeside															     			 |
 | <img src="Screenshots/Firewatch.gif" width="128" height="80">   | <img src="Screenshots/Firewatch2.gif" width="128" height="80"> 		     																     | <img src="Screenshots/LakesideDeer.gif" width="128" height="80">												 					     	             | <img src="Screenshots/Lakeside.gif" width="128" height="80">															     			 |
-| Fuji 	   	              															        | Carvan		     																     | Painting Studio												 					     	             | 															     			 |
-| <img src="Screenshots/Fuji.gif" width="128" height="80">         															        | <img src="Screenshots/Carvan.gif" width="128" height="80">		     																     | <img src="Screenshots/PaintingStudio.gif" width="128" height="80">												 					     	             | 															     			 Lofi LofiAlexandra|
+| Fuji 	   	              															        | Carvan		     																     | Painting Studio												 					     	             | Step By Step  															     			 |
+| <img src="Screenshots/Fuji.gif" width="128" height="80">         															        | <img src="Screenshots/Carvan.gif" width="128" height="80">		     																     | <img src="Screenshots/PaintingStudio.gif" width="128" height="80">												 					     	             | <img src="Screenshots/StepbyStep.gif" width="128" height="80">
 
 ### Lake & Sea & River
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
