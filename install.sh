@@ -6,6 +6,8 @@ then
 fi
 
 echo "Installing wallpapers..."
-sudo ln -s $(pwd)/Dynamic_Wallpapers /usr/share/backgrounds/Dynamic_Wallpapers
-sudo ln -s $(pwd)/xml/* /usr/share/gnome-background-properties/
+sudo mkdir -p /usr/share/backgrounds/
+sudo mkdir -p /usr/share/gnome-background-properties/ 
+sudo ln -sf $(pwd)/Dynamic_Wallpapers /usr/share/backgrounds/Dynamic_Wallpapers
+sudo ln -sf $(pwd)/xml/* /usr/share/gnome-background-properties/
 echo "Wallpapers has been installed. Enjoy setting them as your desktop background!"
