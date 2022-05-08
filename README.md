@@ -200,7 +200,7 @@ Emoji | Description
 - [x] Make a script for creating a dynamic wallpaper given just two wallpapers and a name for it
 
 
-## :revolving_hearts: Countributors
+## :revolving_hearts: Contributors
 Thanks goes to these wonderful people:
 - [saint-13](https://github.com/saint-13)
 - [amro_solaiman](https://github.com/amrosolaiman)
