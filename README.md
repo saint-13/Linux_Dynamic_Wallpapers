@@ -4,8 +4,6 @@
 	<a href="https://www.gnome-look.org/p/1499429"><img src=https://img.shields.io/badge/Rank%20on%20Gnome--look.org-First-%23FFD700%20?logo=gnome&logoColor=lightgrey&labelColor=303030 /></a>
 </p>
 
-<p align="center"> IT'S NOT COMPATIBLE WITH GNOME 42. feel free to make it work!</p>
-
 ## 🎨 Preview
 ### Abstract
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
