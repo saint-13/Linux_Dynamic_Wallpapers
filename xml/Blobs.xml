@@ -3,7 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Blobs</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/Blobs.xml</filename>
+    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/Blobs-1.svg</filename>
+    <filename-dark>/usr/share/backgrounds/Dynamic_Wallpapers/Blobs-2.svg</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>

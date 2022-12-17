@@ -3,7 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Anime Room With Board</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/AnimeRoomBoard.xml</filename>
+    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/AnimeRoomBoard-1.jpg</filename>
+    <filename-dark>/usr/share/backgrounds/Dynamic_Wallpapers/AnimeRoomBoard-2.jpg</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>

@@ -3,7 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Zorin Mountain Fog</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinMountainFog.xml</filename>
+    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinMountainFog1.jpg</filename>
+    <filename-dark>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinMountainFog2.jpg</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>

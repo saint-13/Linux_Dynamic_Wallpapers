@@ -3,7 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Aura</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/Aura.xml</filename>
+    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/Aura/Aura-1.png</filename>
+    <filename-dark>/usr/share/backgrounds/Dynamic_Wallpapers/Aura-2.png</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
