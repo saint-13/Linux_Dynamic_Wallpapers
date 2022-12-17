@@ -1,0 +1,90 @@
+<background>
+  <starttime>
+    <year>2019</year>
+    <month>2</month>
+    <day>20</day>
+    <hour>9</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+<!-- This animation will start at 7 AM. -->
+
+<!-- We start with sunrise at 7 AM. It will remain up for 1 hour. -->
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/sunrise.png</file>
+</static>
+
+<!-- Sunrise starts to transition to late morning at 8 AM. The transition lasts for 1 hour, ending at 9 AM. -->
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/sunrise.png</from>
+<to>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/late-morning.png</to>
+</transition>
+
+<!-- It's 9 AM, we're showing the late morning image fully, for 2 hours ending at 11 AM. -->
+<static>
+<duration>7200.0</duration>
+<file>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/late-morning.png</file>
+</static>
+
+<!-- Late morning starts to transition to midday at 11 AM. The transition lasts for 1 hour, ending at 12 PM. -->
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/late-morning.png</from>
+<to>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/midday.png</to>
+</transition>
+
+<!-- It's 12 PM, we're showing the midday image in full force now, for 4 hours ending at 4 PM. -->
+<static>
+<duration>14400.0</duration>
+<file>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/midday.png</file>
+</static>
+
+<!-- Midday starts to transition to afternoon at 4 PM. The transition lasts for 1 hour, ending at 5 PM. -->
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/midday.png</from>
+<to>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/afternoon.png</to>
+</transition>
+
+<!-- It's 5 PM, we're showing the afternoon image now, for 1 hour ending at 6 PM. -->
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/afternoon.png</file>
+</static>
+
+<!-- Afternoon starts to transition to evening at 6 PM. The transition lasts for 1 hour, ending at 7 PM. -->
+<transition type="overlay">
+<duration>3600.0</duration>
+<from>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/afternoon.png</from>
+<to>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/evening.png</to>
+</transition>
+
+<!-- It's 7 PM, we're showing the evening image in full force now, for 1 hour ending at 8 PM. -->
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/evening.png</file>
+</static>
+
+<!-- It's 8 PM and it's going to get darker. This will transition for 4 hours up until midnight. -->
+<transition type="overlay">
+<duration>14400.0</duration>
+<from>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/evening.png</from>
+<to>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/night.png</to>
+</transition>
+
+<!-- It's midnight. It'll stay dark for 5 hours up until 5 AM. -->
+<static>
+<duration>18000.0</duration>
+<file>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/night.png</file>
+</static>
+
+<!-- It's 5 AM. We'll start transitioning to sunrise for 2 hours up until 7 AM. -->
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/night.png</from>
+<to>/usr/share/backgrounds/Dynamic_Wallpapers/ZorinBlur/sunrise.png</to>
+</transition>
+</background>
