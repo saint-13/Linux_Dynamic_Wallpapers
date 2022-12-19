@@ -3,7 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Rocky Mountain</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/RockyMountain.xml</filename>
+    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/RockyMountain/RockyMountain1.jpg</filename>
+    <filename-dark>/usr/share/backgrounds/Dynamic_Wallpapers/RockyMountain/RockyMountain2.jpg</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
