@@ -6,14 +6,12 @@ GIT_URL="https://github.com/saint-13/Linux_Dynamic_Wallpapers.git/"
 # Clone .git folder -> Lightweigh checkout
 git clone --filter=blob:none --no-checkout "$GIT_URL"
 
-set -e 
-
 # List files in repo and create array of available walpapers
-walpaper_list="$(git ls-tree --full-name --name-only -r HEAD | \
+walpaper_list="$(git --git-dir Linux_Dynamic_Wallpapers/.git ls-tree --full-name --name-only -r HEAD | \
 	grep xml/ | \
-	sed -e 's/^xml\///' \
-	-e 's/.xml//' \
-	-e 's/$/,,OFF/' | \
+	sed -e 's/^xml\///' | \
+	sed -e 's/.xml//' | \
+	sed -e 's/$/,,OFF/' | \
 	tr "\n" "," \
 )"
 IFS=',' read -r -a choiceArray <<< "$walpaper_list"
@@ -22,7 +20,7 @@ IFS=',' read -r -a choiceArray <<< "$walpaper_list"
 user_selection=$(whiptail --title "Select walpapers to install" --checklist \
 	"Walpapers:" $LINES $COLUMNS $(( $LINES - 8 )) \
 	"${choiceArray[@]}" \
-	3>&1 1>&2 2>&3 | sed 's/" "/"\n"/g' )
+	3>&1 1>&2 2>&3 | sed -e 's/" "/"\n"/')
 
 echo "-----------------"
 echo " ✔️ Selection: "
