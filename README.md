@@ -116,8 +116,18 @@
 -->
 
 ## :gear: Installation:
+#### RECOMMEND: Easy, Time and data saving :star:
+1. Open Terminal
+2. Run the following command:
+    ```
+    curl -s "https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Interactive_Install.sh" | sudo bash
+    ```
+3. Select the walpapers you wish to install from the list
+4. Script will download and install only selected ones
+5. Change your wallpaper from: Settings > Backgrounds
+6. That's it. Enjoy! :tada:
 
-#### RECOMMEND: Easy but time & data consuming :hourglass_flowing_sand:
+#### Method 2: Easy but time & data consuming :hourglass_flowing_sand:
 
 1. Open Terminal
 2. Run the following command:
@@ -127,7 +137,7 @@
 4. Change your wallpaper from: Settings > Backgrounds
 5. That's it. Enjoy! :tada:
 
-#### Method 2: for *experts* but saves time and data :nerd_face:
+#### Method 3: for *experts* but saves time and data :nerd_face:
 
 1. Download package:
 
