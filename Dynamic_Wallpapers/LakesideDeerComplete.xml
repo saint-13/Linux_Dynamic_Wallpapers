@@ -1,0 +1,142 @@
+<background>
+	<starttime>
+		<year>2018</year>
+		<month>1</month>
+		<day>1</day>
+		<hour>0</hour>
+		<minute>0</minute>
+		<second>0</second>
+	</starttime>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-01.png</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-01.png</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-02.png</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-02.png</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-02.png</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-03.png</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-03.png</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-03.png</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-04.png</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-04.png</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-04.png</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-05.png</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-05.png</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-05.png</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-06.png</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-06.png</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-06.png</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-07.png</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-07.png</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-07.png</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-08.png</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-08.png</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-08.png</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-09.png</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-09.png</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-09.png</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-10.png</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-10.png</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-10.png</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-11.png</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-11.png</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-11.png</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-12.png</to>
+	</transition>
+
+	<static>
+		<file>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-12.png</file>
+		<duration>3600.0</duration>
+	</static>
+
+	<transition type="overlay">
+		<duration>3600.0</duration>
+		<from>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-12.png</from>
+		<to>/usr/share/backgrounds/Dynamic_Wallpapers/LakesideDeerComplete/LakesideDeer-01.png</to>
+	</transition>
+</background>
