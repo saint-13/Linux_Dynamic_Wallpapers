@@ -4,6 +4,16 @@
 	<a href="https://www.gnome-look.org/p/1499429"><img src=https://img.shields.io/badge/Rank%20on%20Gnome--look.org-First-%23FFD700%20?logo=gnome&logoColor=lightgrey&labelColor=303030 /></a>
 </p>
 
+ * [🎨 Preview](#-preview)
+ * [:gear: Installation](#gear-installation)
+ * [:gear: Light/Dark Mode Installation (Gnome 42+)](#gear-lightdark-mode-installation-gnome-42)
+ * [:paintbrush: Wallpapers Authors](#paintbrus-wallpapers-authors)
+ * [:octocat: I want to contribute!](#octocat-i-want-to-contribute)
+ * [:memo: To do list](#memo-to-do-list)
+ * [:revolving_hearts: Contributors](#revolving_hearts-contributors)
+ * [:radioactive: Notice](#radioactive-notice)
+ * [🔗 External links](#-external-links)
+
 ## 🎨 Preview
 ### Abstract
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -115,7 +125,7 @@
 | 	   	              															        | 		     																     | 												 					     	             | 															     			 |
 -->
 
-## :gear: Installation:
+## :gear: Installation
 #### RECOMMEND: Easy, Time and data saving :star:
 1. Open Terminal
 2. Run the following command:
@@ -164,7 +174,24 @@
 
 4. That's it. Enjoy! :tada:
 
-## :paintbrush: Wallpapers Authors:
+## :gear: Light/Dark Mode Installation (Gnome 42+)
+
+> :warning: **Requires Gnome 42 or newer**
+
+If, instead of the varying over-time dynamic wallpapers, you'd like to install them so that they change based on the active Gnome (light/dark) mode. Use the provided python script install_gnome_42_light_dark.py.
+
+```console
+sudo python3 install_gnome_42_light_dark.py LinuxLightDarkWallpapers \
+    Dynamic_Wallpapers \
+    /usr/share
+```
+
+The command above will install *all* the wallpapers in the directory 
+*/usr/share/backgrounds/LinuxLightDarkWallpapers*, and the the wallpapers'
+configuration file into
+*/usr/share/gnome-background-properties/LinuxLightDarkWallpapers.xml*.
+
+## :paintbrush: Wallpapers Authors
 - Apple Inc.
 - Elementary Os
 - Ubuntu
