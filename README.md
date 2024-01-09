@@ -164,6 +164,23 @@
 
 4. That's it. Enjoy! :tada:
 
+## :gear: Light/Dark Mode Installation (Gnome 42+):
+
+> :warning: **Requires Gnome 42 or newer**
+
+If, instead of the varying over-time dynamic wallpapers, you'd like to install them so that they change based on the active Gnome (light/dark) mode. Use the provided python script install_gnome_42_light_dark.py.
+
+```console
+sudo python3 install_gnome_42_light_dark.py LinuxLightDarkWallpapers \
+    Dynamic_Wallpapers \
+    /usr/share
+```
+
+The command above will install *all* the wallpapers in the directory 
+*/usr/share/backgrounds/LinuxLightDarkWallpapers*, and the the wallpapers'
+configuration file into
+*/usr/share/gnome-background-properties/LinuxLightDarkWallpapers.xml*.
+
 ## :paintbrush: Wallpapers Authors:
 - Apple Inc.
 - Elementary Os
