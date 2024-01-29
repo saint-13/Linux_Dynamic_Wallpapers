@@ -8,7 +8,7 @@
 ### Abstract
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Globe 	   	              															        | Wiravketto 		     																     | 												 					     	             | 															     			 |
+| Globe 	   	              															        | Wiravketto 		     																     | Viragnegy												 					     	             | Viragharom															     			 |
 | <img src="Screenshots/Globe.gif" width="128" height="80"> 	   	              															        |<img src="Screenshots/Wiravketto.gif" width="128" height="80"> 		     																     | <img src="Screenshots/Viragnegy.gif" width="128" height="80">												 					     	             | <img src="Screenshots/Viragharom.gif" width="128" height="80">															     			 |
 | Viragegy	   	              															        | Rocksketto		     																     | Rock 												 					     	             | Rocknegy														     			 |
 | <img src="Screenshots/Viragegy.gif" width="128" height="80"> 	   	              															       | <img src="Screenshots/Rocksketto.gif" width="128" height="80"> 		     																     | <img src="Screenshots/Rock.gif" width="128" height="80"> 												 					     	     | <img src="Screenshots/Rocknegy.gif" width="128" height="80"> 															     			 |
@@ -24,6 +24,8 @@
 | <img src="Screenshots/ChromeOSWind.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSWater.gif" width="128" height="80"> | <img src="Screenshots/SolidForest.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSYellows.gif" width="128" height="80"> |
 | SolidMountain | Plateau | SolidDesert | SolidIsland |
 | <img src="Screenshots/SolidMountain.gif" width="128" height="80"> | <img src="Screenshots/Plateau.gif" width="128" height="80"> | <img src="Screenshots/SolidDesert.gif" width="128" height="80"> | <img src="Screenshots/SolidIsland.gif" width="128" height="80"> |
+| ChromeOSReds | Red Circles | Chrome Deep Dark |  |
+| <img src="Screenshots/ChromeOSReds.gif" width="128" height="80"> | <img src="Screenshots/RedCircles.gif" width="128" height="80" style="object-fit: cover;"> | <img src="Screenshots/ChromeDeepDarkPurple.gif" width="128" height="80"> | |
 
 ### Apple Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -36,6 +38,8 @@
 | <img src="Screenshots/BigSurV2.gif" width="128" height="80"> 	| <img src="Screenshots/Monterey.gif" width="128" height="80"> | <img src="Screenshots/Mojave.gif" width="128" height="80"> | <img src="Screenshots/MojaveV2.gif" width="128" height="80"> |
 | Minimal Mojave 															| Big Sur	 															        | Catalina													   			     |Iphone 13 Red																		|
 | <img src="Screenshots/Minimal-Mojave.gif" width="128" height="80"> | <img src="Screenshots/BigSur.gif" width="128" height="80">	        | <img src="Screenshots/Catalina.gif" width="128" height="80">     | <img src="Screenshots/Iphone13Red.gif" width="128" height="80"> 			  		     												     |
+| Sonoma 															| Ventura	 															        | Rancho Cucamonga													   			     |																	|
+| <img src="Screenshots/Sonoma.gif" width="128" height="80"> | <img src="Screenshots/Ventura.gif" width="128" height="80">	        |  <img src="Screenshots/RanchoCucamonga.gif" width="128" height="80">   | 		  		     												     |
 
 ### Lofi Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -56,6 +60,8 @@
 | <img src="Screenshots/Firewatch.gif" width="128" height="80">   | <img src="Screenshots/Firewatch2.gif" width="128" height="80"> 		     																     | <img src="Screenshots/LakesideDeer.gif" width="128" height="80">												 					     	             | <img src="Screenshots/Lakeside.gif" width="128" height="80">															     			 |
 | Fuji 	   	              															        | Carvan		     																     | Painting Studio												 					     	             | Step By Step  															     			 |
 | <img src="Screenshots/Fuji.gif" width="128" height="80">         															        | <img src="Screenshots/Carvan.gif" width="128" height="80">		     																     | <img src="Screenshots/PaintingStudio.gif" width="128" height="80">												 					     	             | <img src="Screenshots/StepbyStep.gif" width="128" height="80">
+| Plants 	   	              															        | Walrus		     																     | 											 					     	             | 															     			 |
+| <img src="Screenshots/Plants.gif" width="128" height="80">         															        | <img src="Screenshots/Walrus.gif" width="128" height="80">		     																     | 										 					     	             | 
 
 ### Lake & Sea & River
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
