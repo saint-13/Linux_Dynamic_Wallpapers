@@ -8,7 +8,7 @@
 ### Abstract
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Globe 	   	              															        | Wiravketto 		     																     | 												 					     	             | 															     			 |
+| Globe 	   	              															        | Wiravketto 		     																     | Viragnegy												 					     	             | Viragharom															     			 |
 | <img src="Screenshots/Globe.gif" width="128" height="80"> 	   	              															        |<img src="Screenshots/Wiravketto.gif" width="128" height="80"> 		     																     | <img src="Screenshots/Viragnegy.gif" width="128" height="80">												 					     	             | <img src="Screenshots/Viragharom.gif" width="128" height="80">															     			 |
 | Viragegy	   	              															        | Rocksketto		     																     | Rock 												 					     	             | Rocknegy														     			 |
 | <img src="Screenshots/Viragegy.gif" width="128" height="80"> 	   	              															       | <img src="Screenshots/Rocksketto.gif" width="128" height="80"> 		     																     | <img src="Screenshots/Rock.gif" width="128" height="80"> 												 					     	     | <img src="Screenshots/Rocknegy.gif" width="128" height="80"> 															     			 |
@@ -18,12 +18,14 @@
 | <img src="Screenshots/LofiCity.gif" width="128" height="80"> | <img src="Screenshots/Hills.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSEarth.gif" width="128" height="80"> | <img src="Screenshots/Ocean.gif" width="128" height="80"> |
 | DeadTree | MountainsIsland | ChromeOSFire | Solitude |
 | <img src="Screenshots/DeadTree.gif" width="128" height="80"> | <img src="Screenshots/MountainsIsland.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSFire.gif" width="128" height="80"> | <img src="Screenshots/Solitude.gif" width="128" height="80"> |
-| ChromeOSBlues | ChromeOSGreens | ChromeOSEarth | WaterHill |
-| <img src="Screenshots/ChromeOSBlues.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSGreens.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSEarth.gif" width="128" height="80"> | <img src="Screenshots/WaterHill.gif" width="128" height="80"> |
+| ChromeOSBlues | ChromeOSGreens | ChromeOSReds | WaterHill |
+| <img src="Screenshots/ChromeOSBlues.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSGreens.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSReds.gif" width="128" height="80"> | <img src="Screenshots/WaterHill.gif" width="128" height="80"> |
 | ChromeOSWind | ChromeOSWater | SolidForest | ChromeOSYellows |
 | <img src="Screenshots/ChromeOSWind.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSWater.gif" width="128" height="80"> | <img src="Screenshots/SolidForest.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSYellows.gif" width="128" height="80"> |
 | SolidMountain | Plateau | SolidDesert | SolidIsland |
 | <img src="Screenshots/SolidMountain.gif" width="128" height="80"> | <img src="Screenshots/Plateau.gif" width="128" height="80"> | <img src="Screenshots/SolidDesert.gif" width="128" height="80"> | <img src="Screenshots/SolidIsland.gif" width="128" height="80"> |
+| Moon Far View | Red Circles | Chrome Deep Dark | Winter is leaving |
+| <img src="Screenshots/MoonFarView.gif" width="128" height="80"> | <img src="Screenshots/RedCircles.gif" width="128" height="80" style="object-fit: cover;"> | <img src="Screenshots/ChromeDeepDarkPurple.gif" width="128" height="80"> | <img src="Screenshots/WinterIsLeaving.gif" width="128" height="80"> |
 
 ### Apple Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -36,6 +38,8 @@
 | <img src="Screenshots/BigSurV2.gif" width="128" height="80"> 	| <img src="Screenshots/Monterey.gif" width="128" height="80"> | <img src="Screenshots/Mojave.gif" width="128" height="80"> | <img src="Screenshots/MojaveV2.gif" width="128" height="80"> |
 | Minimal Mojave 															| Big Sur	 															        | Catalina													   			     |Iphone 13 Red																		|
 | <img src="Screenshots/Minimal-Mojave.gif" width="128" height="80"> | <img src="Screenshots/BigSur.gif" width="128" height="80">	        | <img src="Screenshots/Catalina.gif" width="128" height="80">     | <img src="Screenshots/Iphone13Red.gif" width="128" height="80"> 			  		     												     |
+| Sonoma 															| Ventura	 															        | Rancho Cucamonga													   			     |																	|
+| <img src="Screenshots/Sonoma.gif" width="128" height="80"> | <img src="Screenshots/Ventura.gif" width="128" height="80">	        |  <img src="Screenshots/RanchoCucamonga.gif" width="128" height="80">   | 		  		     												     |
 
 ### Lofi Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -56,6 +60,8 @@
 | <img src="Screenshots/Firewatch.gif" width="128" height="80">   | <img src="Screenshots/Firewatch2.gif" width="128" height="80"> 		     																     | <img src="Screenshots/LakesideDeer.gif" width="128" height="80">												 					     	             | <img src="Screenshots/Lakeside.gif" width="128" height="80">															     			 |
 | Fuji 	   	              															        | Carvan		     																     | Painting Studio												 					     	             | Step By Step  															     			 |
 | <img src="Screenshots/Fuji.gif" width="128" height="80">         															        | <img src="Screenshots/Carvan.gif" width="128" height="80">		     																     | <img src="Screenshots/PaintingStudio.gif" width="128" height="80">												 					     	             | <img src="Screenshots/StepbyStep.gif" width="128" height="80">
+| Plants 	   	              															        | Walrus		     																     | 											 					     	             | 															     			 |
+| <img src="Screenshots/Plants.gif" width="128" height="80">         															        | <img src="Screenshots/Walrus.gif" width="128" height="80">		     																     | 										 					     	             | 
 
 ### Lake & Sea & River
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -85,6 +91,8 @@
 | <img src="Screenshots/EOS-SnowCappedMountain.gif" width="128" height="80"> | <img src="Screenshots/EOS-WeYamle.gif" width="128" height="80">| <img src="Screenshots/FedeMarinMountain.gif" width="128" height="80"> 	     | <img src="Screenshots/PadarIsland.gif" width="128" height="80">   		 |
 | Rocky Mountain  														        | Zorin Mountain 		     												     | Zorin Mountain fog 												 	             | Material Mountains															     			 |
 | <img src="Screenshots/RockyMountain.gif" width="128" height="80">  	   	        | <img src="Screenshots/ZorinMountain.gif" width="128" height="80"> 		     | <img src="Screenshots/ZorinMountainFog.gif" width="128" height="80"> 		     |<img src="Screenshots/MaterialMountains.gif" width="128" height="80"> |
+| Zorin Mountain 2  														        |
+| <img src="Screenshots/ZorinMountain2.gif" width="128" height="80">  	   	        |
 
 ### Ubuntu Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -97,8 +105,23 @@
 ### Windows Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| Windows 11 01	   	              													        | Windows 11 02		     														     | Windows 11 03												 		             | 															     			 |
-| <img src="Screenshots/Windows-11.gif" width="128" height="80">               		        | <img src="Screenshots/Windows-11-2.gif" width="128" height="80">		     	     | <img src="Screenshots/Windows-11-3.gif" width="128" height="80">                                 		     | 			 |
+| Windows 11 01	   	              													        | Windows 11 02		     														     | Windows 11 03												 		             | Windows 11 04															     			 |
+| <img src="Screenshots/Windows-11.gif" width="128" height="80">               		        | <img src="Screenshots/Windows-11-2.gif" width="128" height="80">		     	     | <img src="Screenshots/Windows-11-3.gif" width="128" height="80">                                 		     | <img src="Screenshots/Windows-11-4.gif" width="128" height="80">			 |
+| Windows 11 05	   	              													        | Insider Program		     														     | Windows 12 01												 		             | Windows 12 02															     			 |
+| <img src="Screenshots/Windows-11-5.gif" width="128" height="80">               		        | <img src="Screenshots/Windows-Insider-Program.gif" width="128" height="80"> 		     	     | <img src="Screenshots/Windows-12.gif" width="128" height="80">                                		     | <img src="Screenshots/Windows-12-2.gif" width="128" height="80">		 |
+| Bloom Ventura	   	              													        |Bloom Snow		     														     | Bloom Alternative													 		             | Bloom Rainbow															     			 |
+| <img src="Screenshots/Windows-11-Bloom-Ventura.gif" width="128" height="80">               		        | <img src="Screenshots/Windows-11-Bloom-Snow.gif" width="128" height="80">		     	     | <img src="Screenshots/Windows-11-Bloom-Alternative.gif" width="128" height="80">           		     | <img src="Screenshots/Windows-11-Bloom-Rainbow.gif" width="128" height="80">			 |
+| MS Build 2019	   	              													        |MS Build 2020 1		     														     | MS Build 2020 2													 		             | Pixel Blocks															     			 |
+| <img src="Screenshots/Microsoft-Build-2019.gif" width="128" height="80">               		        | <img src="Screenshots/Microsoft-Build-2020.gif" width="128" height="80">		     	     | <img src="Screenshots/Microsoft-Build-2020-2.gif" width="128" height="80">           		     | <img src="Screenshots/Windows-Pixel-Blocks.gif" width="128" height="80">			 |
+| MS Build 2023	   	              													        |MS Build 2023 2		     														     | MS Build 2023 3													 		             | MS Build 2023 4															     			 |
+| <img src="Screenshots/Microsoft-Build-2023-Wave.gif" width="128" height="80">               		        | <img src="Screenshots/Microsoft-Build-2023-Wave-2.gif" width="128" height="80">		     	     | <img src="Screenshots/Microsoft-Build-2023-DevHome.gif" width="128" height="80">           		     | <img src="Screenshots/Microsoft-Build-2023-Layers.gif" width="128" height="80">			 |
+| MS Build 2023	5   	              													        | MS Build 2023 6		     														     | MS Build 2023 7													 		             | MS Build 2023 8															     			 |
+| <img src="Screenshots/Microsoft-Build-2023-Wave-Blue-Green.gif" width="128" height="80">               		        | <img src="Screenshots/Microsoft-Build-2023-Wave-Blue-Purple.gif" width="128" height="80">		     	     | <img src="Screenshots/Microsoft-Build-2023-Wave-2-Blue-Green.gif" width="128" height="80">           		     | <img src="Screenshots/Microsoft-Build-2023-Wave-3-Blue-Green.gif" width="128" height="80">			 |
+| Wave Purple   	              													        | Wave Green Blue  		     														     | Wave Blue Purple													 		             | Wave Pink Orange															     			 |
+| <img src="Screenshots/Color-Wave-Purple.gif" width="128" height="80">               		        | <img src="Screenshots/Color-Wave-Green-Blue.gif" width="128" height="80">		     	     | <img src="Screenshots/Color-Wave-Blue-Purple.gif" width="128" height="80">           		     | <img src="Screenshots/Color-Wave-Pink-Orange.gif" width="128" height="80">			 |
+| Wave Oraange  	              													        | Wave Yellow	     														     | 												 		             | 															     			 |
+| <img src="Screenshots/Color-Wave-Orange.gif" width="128" height="80">               		        | <img src="Screenshots/Color-Wave-Yellow.gif" width="128" height="80">		     	     |       		     | 			 |
+
 
 ### Gnome 42
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
