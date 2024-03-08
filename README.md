@@ -91,6 +91,8 @@
 | <img src="Screenshots/EOS-SnowCappedMountain.gif" width="128" height="80"> | <img src="Screenshots/EOS-WeYamle.gif" width="128" height="80">| <img src="Screenshots/FedeMarinMountain.gif" width="128" height="80"> 	     | <img src="Screenshots/PadarIsland.gif" width="128" height="80">   		 |
 | Rocky Mountain  														        | Zorin Mountain 		     												     | Zorin Mountain fog 												 	             | Material Mountains															     			 |
 | <img src="Screenshots/RockyMountain.gif" width="128" height="80">  	   	        | <img src="Screenshots/ZorinMountain.gif" width="128" height="80"> 		     | <img src="Screenshots/ZorinMountainFog.gif" width="128" height="80"> 		     |<img src="Screenshots/MaterialMountains.gif" width="128" height="80"> |
+| Zorin Mountain 2  														        |
+| <img src="Screenshots/ZorinMountain2.gif" width="128" height="80">  	   	        |
 
 ### Ubuntu Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
