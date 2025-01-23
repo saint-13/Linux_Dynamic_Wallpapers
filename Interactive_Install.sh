@@ -3,6 +3,9 @@ WALPAPER_DEST="/usr/share/backgrounds/Dynamic_Wallpapers"
 XML_DEST="/usr/share/gnome-background-properties/"
 GIT_URL="https://github.com/saint-13/Linux_Dynamic_Wallpapers.git/"
 
+# clean the remaining git directory on pwd on exit
+trap 'rm -rf "$PWD/Linux_Dynamic_Wallpapers"' EXIT
+
 # Clone .git folder -> Lightweigh checkout
 git clone --filter=blob:none --no-checkout "$GIT_URL"
 
@@ -75,5 +78,6 @@ while IFS= read -r to_install; do
 done <<< "$user_selection"
 
 echo
+
 echo "Success !"
 echo "💜 Please support on https://github.com/saint-13/Linux_Dynamic_Wallpapers"

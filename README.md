@@ -120,7 +120,8 @@
 1. Open Terminal
 2. Run the following command:
     ```
-    curl -s "https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Interactive_Install.sh" | sudo bash
+    curl -s "https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Interactive_Install.sh" > install.sh
+    sudo bash install.sh
     ```
 3. Select the walpapers you wish to install from the list
 4. Script will download and install only selected ones
