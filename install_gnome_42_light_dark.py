@@ -28,6 +28,12 @@ def main():
 def process_wallpapers(bundle_name: str, input_path: Path, output_image_dir: Path, output_xml_dir: Path):
     print(bundle_name, input_path, output_image_dir, output_xml_dir)
     filtered = filter_wallpapers(input_path)
+    
+    # If no wallpapers with exactly 2 images were found, exit early
+    if not filtered:
+        print("No wallpapers with exactly 2 images found for conversion.")
+        return
+    
     renamed = rename_wallpapers(filtered)
     new_paths = prepare_output_paths(renamed, output_image_dir)
     wallpaper_xmls = create_wallpaper_descriptions(new_paths)
@@ -36,6 +42,9 @@ def process_wallpapers(bundle_name: str, input_path: Path, output_image_dir: Pat
     with open(output_xml_dir / f"{bundle_name}.xml", "w") as xml_file:
         wallpaper_xmls.writexml(xml_file, indent="  ", addindent="  ", newl="\n")
     copy_wallpapers(filtered, new_paths)
+    
+    # Delete old XML files for converted wallpapers
+    delete_old_xml_files(filtered, output_xml_dir)
 
 
 def prepare_output_paths(
@@ -56,9 +65,9 @@ def filter_wallpapers(input_path: Path) -> dict[str, tuple[Path, Path]]:
     filtered_wallpapers = {}
     for wallpaper in wallpaper_dirs:
         variants = sorted(wallpaper.iterdir())
-        if len(variants) < 2:
-            continue
-        filtered_wallpapers[wallpaper.name] = variants[0], variants[-1]
+        # Only process wallpapers with exactly 2 images (light/dark variants)
+        if len(variants) == 2:
+            filtered_wallpapers[wallpaper.name] = variants[0], variants[-1]
     return filtered_wallpapers
 
 
@@ -118,6 +127,21 @@ def copy_wallpapers(source_wallpapers, dest_wallpapers: dict[str, tuple[Path, Pa
         light_dst, dark_dst = dest_wallpapers[wallpaper]
         shutil.copy(light_src, light_dst)
         shutil.copy(dark_src, dark_dst)
+
+
+def delete_old_xml_files(converted_wallpapers: dict[str, tuple[Path, Path]], xml_dir: Path) -> None:
+    """
+    Delete old XML files for wallpapers that have been converted to GNOME 42 syntax.
+    This prevents duplicates in the wallpaper selection.
+    """
+    for wallpaper_name in converted_wallpapers.keys():
+        old_xml_path = xml_dir / f"{wallpaper_name}.xml"
+        if old_xml_path.exists():
+            try:
+                old_xml_path.unlink()
+                print(f"Deleted old XML file: {old_xml_path}")
+            except OSError as e:
+                print(f"Error deleting {old_xml_path}: {e}")
 
 
 if __name__ == "__main__":
