@@ -1,7 +1,7 @@
 #!/bin/bash
 cd ~
 echo "Downloading needed files started"
-git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git  
+git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git --depth=1
 cd Linux_Dynamic_Wallpapers
 echo "Files downloaded"
 
