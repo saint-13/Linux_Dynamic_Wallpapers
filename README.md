@@ -164,6 +164,38 @@
 
 4. That's it. Enjoy! :tada:
 
+#### Method 4: For immutable distributions (Fedora Silverblue, Bazzite, Vanilla OS, …) :lock:
+
+On immutable distributions `/usr/share` is read-only, so the scripts above will not work.
+`install_user.sh` installs everything into your home directory instead — no `sudo` required.
+
+1. Clone the repository (if you haven't already):
+
+    ```
+    git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
+    cd Linux_Dynamic_Wallpapers
+    ```
+
+2. Run the user-level install script:
+
+    ```
+    bash ./install_user.sh
+    ```
+
+    The script copies all wallpaper images to `~/.local/share/backgrounds/Dynamic_Wallpapers/`
+    and rewrites every XML file on the fly so that all paths point to your home directory
+    instead of `/usr/share`.
+
+3. Change your wallpaper from: Settings > Backgrounds
+
+4. That's it. Enjoy! :tada:
+
+To remove the wallpapers installed this way, run:
+
+```
+bash ./install_user.sh --uninstall
+```
+
 ## :paintbrush: Wallpapers Authors:
 - Apple Inc.
 - Elementary Os
